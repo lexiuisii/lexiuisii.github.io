@@ -1,8 +1,5 @@
-title: OC Directory
-description: Trying out something new.
-theme: minima
-minima:
-  skin: dark
+minima:  
+skin: dark
 header_pages:
   - lore.md
 plugins:
