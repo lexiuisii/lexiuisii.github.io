@@ -1,0 +1,7 @@
+title: Tester
+description: I'm still Testing
+theme: minima
+skin: dark
+header_pages:
+  - lore.md
+  - test.md
