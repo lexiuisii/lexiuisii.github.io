@@ -1,7 +1,10 @@
-title: Tester
-description: I'm still Testing
+title: OC Directory
+description: Trying out something new.
 theme: minima
-skin: dark
+minima:
+       skin: dark
 header_pages:
   - lore.md
-  - test.md
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
