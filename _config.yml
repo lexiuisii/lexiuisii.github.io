@@ -1,10 +1,16 @@
-title: OC Directory 
-description: A hub for my original characters and worldbuilding.
-theme: minima
-minima:
-  skin: dark
+title: "OC Directory"
+description: "A hub for my original characters and worldbuilding."
+
 header_pages:
   - lore.md
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+
+preferences:
+ - type: dropdown
+    name: language
+    label: Language
+    description: Choose your preferred language.
+    options:
+    - label: English
+      value: en
+    - label: Español
+      value: es
