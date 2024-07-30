@@ -1,5 +1,5 @@
 **Agents of Synthesium Technology Corporation** 
-- [Diane Argyros](https://lexiuisii.github.io/Universes/Of_Blood_and_Ichor/Persons_of_Interest/Diane_Argyros)
+- [Diane Argyros](/Universes/Of_Blood_and_Ichor/Persons_of_Interest/Diane_Argyros)
 - [Owen Singh Bennett](https://lexiuisii.github.io/Universes/Of_Blood_and_Ichor/Persons_of_Interest/Owen_Singh_Bennett)
 - [Tsukiyama Rei](https://lexiuisii.github.io/Universes/Of_Blood_and_Ichor/Persons_of_Interest/Tsukiyama_Rei)
 
