@@ -1,4 +1,4 @@
->[!important]
+
 >- Threat Level: `Low` (Compliant)
 >- Affiliation: `STC Employee`
 >- Status: `Confirmed Amalgam`
