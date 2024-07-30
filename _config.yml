@@ -8,3 +8,4 @@ title: "OC Directory"
 description: "A Hub for original characters and worldbuilding."
 breadcrumbs: true 
 layout: default
+search: true
