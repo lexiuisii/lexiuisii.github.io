@@ -1,4 +1,4 @@
-> [!caution]
+
 > - Threat Level: `Medium` (Involvement)
 >- Affiliation: `The Gilded Blade` (Suspected)
 >- Status: `Unconfirmed`
