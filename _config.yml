@@ -1,8 +1,7 @@
 plugin:
   -jekyll-include-cache
 
-remote_theme           : "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin  : "dark"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 title: "OC Directory"
 description: "A Hub for original characters and worldbuilding."
