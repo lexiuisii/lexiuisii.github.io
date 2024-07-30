@@ -1,4 +1,4 @@
->[!warning]
+
 >- Threat Level: `Medium` (EsoTech Engineer)
 >- Affiliation: `The Gilded Blade` (Suspected)
 >- Status: `Unconfirmed`
