@@ -1,4 +1,4 @@
-> [!warning] 
+
 >- Threat Level: `Low` (Awareness)
 >- Affiliation: `Unconfirmed`
 >- Status: `Unconfirmed`
