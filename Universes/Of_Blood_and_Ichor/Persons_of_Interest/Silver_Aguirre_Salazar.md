@@ -1,4 +1,4 @@
->[!warning]
+
 >- Threat Level: `Medium` (Involvement)
 > - Affiliation: `Progenies of Ichor` (Suspected)
 >- Status: `Suspected Amalgam`
