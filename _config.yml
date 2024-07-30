@@ -6,4 +6,4 @@ minimal_mistakes_skin    : "dark"
 
 title: "OC Directory"
 description: "A Hub for original characters and worldbuilding."
-layout: single
+layout: default
