@@ -1,4 +1,4 @@
->[!caution]
+
 >- Threat Level: `High` (Active Hunter)
 >- Affiliation: `The Gilded Blade`
 >- Status: `Confirmed Amalgam`
