@@ -1,7 +1,7 @@
 main:
   - title: "Directory"
-    url: /Universes/Directory/
+    url: /Universes/Directory
   - title: "Lore"
-    url: /Universes/Of_Blood_and_Ichor/Lore/
+    url: /Universes/Of_Blood_and_Ichor/Lore
     target: _blank
     
