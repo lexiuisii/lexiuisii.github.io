@@ -1,8 +1,3 @@
-header_pages:
-  - lore.md
-
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -16,7 +11,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
