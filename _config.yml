@@ -1,12 +1,5 @@
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark"
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-
 layout: single
 
 defaults:
