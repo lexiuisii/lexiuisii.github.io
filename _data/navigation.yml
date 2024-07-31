@@ -1,3 +1,7 @@
 main:
   - title: "Directory"
-    url: 
+    url: /doc/directory
+  - title: "Lore"
+    url: /doc/directory
+  - title: "Test"
+    url: /doc/directory
