@@ -4,6 +4,14 @@
 /resources/
 /.hugo_build.lock
 
+# Build output locations.
+_site/
+.sass-cache/
+
+# Gem files.
+vendor/
+.bundle/
+
 # Numerous always-ignore extensions
 *.diff
 *.err
