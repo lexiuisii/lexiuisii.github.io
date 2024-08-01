@@ -11,3 +11,5 @@ DANGER dont come close
 # TEST
 
 a line of words or something
+
+<i class="fa-solid fa-book"></i>
