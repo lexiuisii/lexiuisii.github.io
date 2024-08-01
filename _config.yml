@@ -1,8 +1,10 @@
-remote_theme: daattali/beautiful-jekyll@6.0.1
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 plugins:
   - jekyll-include-cache
   
-layout: single
+layout: splash
 classes: wide
 
 defaults:
@@ -11,6 +13,6 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash
       classes: wide
       author_profile: false
