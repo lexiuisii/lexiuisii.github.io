@@ -1,13 +1,6 @@
 ---
 title: OC Directory
 description: A hub for my original characters and worldbuilding.
-head_scripts:
-  - https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css
-footer_scripts:
-  - https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js
-  - https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js
-  - https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js
-  - https://use.fontawesome.com/releases/v5.0.6/js/all.js
 ---
 <br>
 
