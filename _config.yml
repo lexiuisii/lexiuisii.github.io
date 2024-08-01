@@ -3,7 +3,7 @@ minimal_mistakes_skin    : "dark"
 plugins:
   - jekyll-include-cache
   
-layout: single
+layout: splash
 classes: wide
 
 defaults:
@@ -12,6 +12,6 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash
       classes: wide
       author_profile: false
