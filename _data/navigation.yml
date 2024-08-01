@@ -3,7 +3,7 @@ main:
     url: https://lexiuisii.github.io/docs/directory
     icon: "fas fa-bookmark"
   - title: "Lore"
-    url: https://lexiuisii.github.io/
+    url: https://lexiuisii.github.io/docs/lore
     icon: "fas fa-book"
   - title: "Test"
     url: https://lexiuisii.github.io/docs/test
