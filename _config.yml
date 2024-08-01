@@ -4,6 +4,7 @@ plugins:
   - jekyll-include-cache
   
 layout: single
+classes: wide
 
 defaults:
   # _posts
@@ -12,4 +13,5 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: false
