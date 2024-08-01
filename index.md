@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: "/https://lexiuisii.github.io/docs/directory"
+redirect: "https://lexiuisii.github.io/docs/directory"
 ---
