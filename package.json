@@ -20,14 +20,14 @@
         "responsive",
         "theme",
         "template"
-    ],
+        },
     "homepage": "https://lexiuisii.github.io/docs/directory",
     "bugs": {
         "url": "https://lexiuisii.github.io/docs/directory",
     },
     "license": "MIT",
     "author": "Bootstrap",
-    ],
+    },
     "repository": {
         "type": "git",
         "url": "https://lexiuisii.github.io/docs/directory"
