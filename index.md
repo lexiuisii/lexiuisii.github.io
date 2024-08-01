@@ -5,7 +5,7 @@ description: Tetsing out this
 
 <br>
 
-DANGER dont come close
+<i class="fa-solid fa-triangle-exclamation"></i> DANGER dont come close
 {: .notice--danger}
 
 # TEST
