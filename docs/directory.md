@@ -1,6 +1,7 @@
 **TRIGGER WARNING:** TBA
 {: .notice--danger}
 
+<div class="row no-gutters" style="background-color:#232121;">
 <!---------
 header name
 ----------->
@@ -26,7 +27,7 @@ profile
 | <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">OCCUPATION</span> | Soldier |
 
 
-
+</div>
 
 
 
