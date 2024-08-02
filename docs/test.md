@@ -1,8 +1,3 @@
----
-layout: splash
-classes: wide
----
-
 <html lang="en">
   <head>
     <meta charset="utf-8">
