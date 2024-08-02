@@ -1,7 +1,7 @@
 **TRIGGER WARNING:** TBA
 {: .notice--danger}
 
-<div class="row no-gutters" style="background-color:#232121;">
+<div class="row no-gutters m-4 p-4 " style="background-color:#232121;">
 <!---------
 header name
 ----------->
@@ -16,15 +16,13 @@ profile
     <span style="color:#d71919;">Q</span>uick Stats
 </h3>
 
-|   |   |
-|---|---|
-| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">NAME</span> | Owen Singh Bennett |
-| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">ALIASES</span> | Agent IRA, Marshall Clayton, Ezra Hart |
-| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">GENDER</span> | Cisgender Male (He/Him) |
-| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">AGE</span> | 29 Years |
-| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">BIRTHDAY</span> | July 16th |
-| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">ETHNICITY</span> | British/Sikh |
-| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">OCCUPATION</span> | Soldier |
+<span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">NAME</span> <span>Owen Singh Bennett</span>
+<span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">ALIASES</span> <span>Agent IRA, Marshall Clayton, Ezra Hart</span>
+<span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">GENDER</span> <span>Cisgender Male (He/Him)</span>
+<span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">AGE</span> <span>29 Years</span>
+<span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">BIRTHDAY</span> <span>July 16th</span>
+<span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">ETHNICITY</span> <span>British/Sikh</span>
+<span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">OCCUPATION</span> <span>Soldier</span>
 
 
 </div>
