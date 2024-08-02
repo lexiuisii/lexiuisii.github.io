@@ -5,7 +5,8 @@
 header name
 ----------->
 
-<div class="row" style="background-color:#141414; padding: 20px;"><h1 style="color:#d71919"> OWEN SINGH BENNETT</h1></div>
+<div class="row" style="background-color:#141414; padding: 30px;"><h1 style="color:#d71919"> OWEN SINGH BENNETT</h1></div>
+<div style="background-color:#d71919;padding:3px;"></div>
 <div class="row" style="background-color:#232121; padding: 50px;">
 
 <!---------
