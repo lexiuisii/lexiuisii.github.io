@@ -43,7 +43,7 @@
  
  
  ------------------------------------------------->
- <div class="mx-auto text-justify" style="color:#404040; font-size:95%; letter-spacing:0.1px; max-width:1000px">
+ <div class="mx-auto text-justify" style="color:#404040; font-size:65%; letter-spacing:0.1px; max-width:1000px">
  <!-------------------------------------------------
  
  
