@@ -1,8 +1,8 @@
 **TRIGGER WARNING:** TBA
 {: .notice--danger}
 
-<div class="p-4" style="background-color:#141414;color:#fefefe;"></div>
-<div class="row no-gutters" style="background-color:#232121; padding: 50px; margin: 20px;">
+<div class="row" style="background-color:#141414; margin: 20px;">&#09;</div>
+<div class="row" style="background-color:#232121; padding: 50px; margin: 20px;">
 <!---------
 header name
 ----------->
@@ -73,7 +73,7 @@ trivia
 </ul>
 
 </div>
-<div class="p-4" style="background-color:#141414;color:#fefefe;"></div>
+<div class="row" style="background-color:#141414; margin: 20px;">&#09;</div>
 
 
 
