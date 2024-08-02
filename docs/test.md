@@ -70,7 +70,7 @@
                  PROFILE CONTENT
 
     --------------------------------------->
-    <div class="col-lg-7">
+    <div class="col-lg-6">
     <div class="p-5 table-responsive" style="height:500px">
         
         
