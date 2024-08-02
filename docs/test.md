@@ -4,45 +4,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   </head>
-  <body style="background-color: #252a34; font-size:12px">
+  <body style="background-color: #252a34">
     <meta name="theme-color" content="252a34"> 
 
   <br>
 
 <!-------------------------------------------------
- 
- 
-        Unity 2 — Custom Coloured version.
-        (code by jiko)
-        
-        ------------------------------
-        
-        RULES
-        → Read this thoroughly please, and maybe drop a small comment saying that you've read it? :'3
-        thank youu [ https://toyhou.se/~bulletins/127417.code-rules ]
-        
-        → turn OFF WYSIWYG
-        → turn ON Code Editor
-        
-        ------------------------------
-        
-        TIPPY TIPS
-        → insert your img links INSIDE or quotation marks!!
-        → looking for a good online code editor?  try [ https://th.circlejourney.net/# ] !
-        
-        ------------------------------
-        
+
         ACCENTS
         → header + footer ----------- #222222
         → main-bg ------------------- #f5f0ea
         → main-text ----------------- #404040
         → accent -------------------- #aca494
-        
-        use control/command + f to quickly change the colours!
- 
- 
+    
  ------------------------------------------------->
- <div class="mx-auto text-justify" style="color:#404040; font-size:95%; letter-spacing:0.1px; max-width:1000px">
+ <div class="mx-auto text-justify" style="color:#404040; font-size:85%; letter-spacing:0.1px; max-width:1000px">
  <!-------------------------------------------------
  
  
