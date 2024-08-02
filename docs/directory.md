@@ -6,7 +6,7 @@ header name
 ----------->
 
 <div class="row" style="background-color:#141414; padding: 20px;"><h1 style="color:#d71919"> OWEN SINGH BENNETT</h1></div>
-<div class="row" style="background-color:#232121; padding: 50px; margin: 20px;">
+<div class="row" style="background-color:#232121; padding: 50px;">
 
 <!---------
 profile
