@@ -3,8 +3,6 @@ title: Main Page
 description: Tetsing out this
 ---
 
-<br>
-
 <i class="fa-solid fa-triangle-exclamation"></i> DANGER dont come close
 {: .notice--danger}
 
