@@ -1,10 +1,10 @@
 main:
   - title: "Directory"
-    url: https://lexiuisii.github.io/docs/directory
     icon: "fas fa-bookmark"
+    url: https://lexiuisii.github.io/docs/directory
   - title: "Lore"
-    url: https://lexiuisii.github.io/docs/lore
     icon: "fas fa-book"
+    url: https://lexiuisii.github.io/docs/lore
   - title: "Test"
-    url: https://lexiuisii.github.io/docs/test
     icon: "fas fa-pen"
+    url: https://lexiuisii.github.io/docs/test
