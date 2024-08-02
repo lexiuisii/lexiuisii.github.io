@@ -1,4 +1,4 @@
 **TRIGGER WARNING:** TBA
 {: .notice--danger}
 
-<div style="color:#d71919"># JACOB DE SILVA</div>
+<h1 style="color:#d71919; background-color:#141414"> JACOB DE SILVA</h1>
