@@ -21,9 +21,11 @@ profile
 | <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">ALIASES</span> | Agent IRA, Marshall Clayton, Ezra Hart |
 | <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">GENDER</span> | Cisgender Male (He/Him) |
 | <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">AGE</span> | 29 Years |
-| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">BIRTHDAY | </span>July 16th |
-| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">ETHNICITY | </span>British/Sikh |
-| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">OCCUPATION | </span>Soldier |
+| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">BIRTHDAY</span> | July 16th |
+| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">ETHNICITY</span> | British/Sikh |
+| <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">OCCUPATION</span> | Soldier |
+
+
 
 
 
