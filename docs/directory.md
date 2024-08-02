@@ -13,7 +13,7 @@ profile
 ----------->
 
 <h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
-    <span style="color:#d71919;">Quick Stats
+    <span style="color:#d71919;">Q</span>uick Stats
 </h3>
 
 <small>
