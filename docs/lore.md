@@ -1,7 +1,3 @@
----
-layout: single
----
-
 *Inspired By:* Control, CHAMBER, Arknights, Bloodborne, Candela Obscura and Mage: The Ascension
 {: .notice--info}
 
