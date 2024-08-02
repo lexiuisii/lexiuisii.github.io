@@ -80,7 +80,7 @@ trivia
 
 </div>
 <div class="row" style="background-color:#141414; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 10px;">
-    <div style="text-align: right; font-size: 16px"><a href="https://toyhou.se/jiko"><i class="fa-solid fa-barcode"></i></a></div>
+    <div style="text-align: right; font-size: 16px"><a href="https://toyhou.se/11320894.-f2u-unity-v2"><i class="fa-solid fa-barcode"></i></a></div>
 </div>
 
 
