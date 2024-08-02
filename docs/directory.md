@@ -79,7 +79,9 @@ trivia
 </small>
 
 </div>
-<div class="row" style="background-color:#141414; padding: 20px;"><a style="text-align: right; font-size: smaller;" href="https://toyhou.se/jiko">credits.</a></div>
+<div class="row" style="background-color:#141414; padding: 20px;">
+    <div style="text-align: right; font-size: smaller;"><a href="https://toyhou.se/jiko">credits.</a></div>
+</div>
 
 
 
