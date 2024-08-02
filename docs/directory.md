@@ -5,7 +5,7 @@
 header name
 ----------->
 
-<div class="row" style="background-color:#141414; margin: 20px;"><h1 style="color:#d71919"> OWEN SINGH BENNETT</h1></div>
+<div class="row" style="background-color:#141414; padding: 20px;"><h1 style="color:#d71919"> OWEN SINGH BENNETT</h1></div>
 <div class="row" style="background-color:#232121; padding: 50px; margin: 20px;">
 
 <!---------
@@ -35,9 +35,11 @@ personality
     <span style="color:#d71919;">P</span>ersonality
 </h3>
 
+<small>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat vestibulum fermentum. Nullam aliquet ipsum mauris, quis tincidunt neque porttitor vitae. Nam condimentum faucibus ornare. Nunc euismod vitae erat id iaculis. Fusce ac fringilla velit, at eleifend augue. Quisque pellentesque tempor tellus. Aliquam id pulvinar risus. Nunc varius ante ac nisl lacinia suscipit. In quis risus quis sapien sagittis pulvinar. Donec at viverra sapien. Nam consectetur quis augue eu tincidunt.</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat vestibulum fermentum. Nullam aliquet ipsum mauris, quis tincidunt neque porttitor vitae. Nam condimentum faucibus ornare. Nunc euismod vitae erat id iaculis. Fusce ac fringilla velit, at eleifend augue. Quisque pellentesque tempor tellus. Aliquam id pulvinar risus. Nunc varius ante ac nisl lacinia suscipit. In quis risus quis sapien sagittis pulvinar. Donec at viverra sapien. Nam consectetur quis augue eu tincidunt.</p>
+</small>
 
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
 
@@ -48,9 +50,11 @@ backstory
     <span style="color:#d71919;">B</span>ackstory
 </h3>
 
+<small>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat vestibulum fermentum. Nullam aliquet ipsum mauris, quis tincidunt neque porttitor vitae. Nam condimentum faucibus ornare. Nunc euismod vitae erat id iaculis. Fusce ac fringilla velit, at eleifend augue. Quisque pellentesque tempor tellus. Aliquam id pulvinar risus. Nunc varius ante ac nisl lacinia suscipit. In quis risus quis sapien sagittis pulvinar. Donec at viverra sapien. Nam consectetur quis augue eu tincidunt.</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat vestibulum fermentum. Nullam aliquet ipsum mauris, quis tincidunt neque porttitor vitae. Nam condimentum faucibus ornare. Nunc euismod vitae erat id iaculis. Fusce ac fringilla velit, at eleifend augue. Quisque pellentesque tempor tellus. Aliquam id pulvinar risus. Nunc varius ante ac nisl lacinia suscipit. In quis risus quis sapien sagittis pulvinar. Donec at viverra sapien. Nam consectetur quis augue eu tincidunt.</p>
+</small>
 
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
 
@@ -63,6 +67,7 @@ trivia
     <span style="color:#d71919;">T</span>rivia
 </h3>
 
+<small>
 <ul>
 <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
 <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
@@ -70,9 +75,10 @@ trivia
 <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
 <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
 </ul>
+</small>
 
 </div>
-<div class="row" style="background-color:#141414; margin: 20px;">&#09;</div>
+<div class="row" style="background-color:#141414; padding: 20px;"><small>Credits.</small></div>
 
 
 
