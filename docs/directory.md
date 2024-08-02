@@ -17,7 +17,7 @@ profile
 ----------->
 
 <h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
-    <span style="color:#d71919;">Q</span>uick Stats
+    <span style="color:#d71919;">P</span>rofile
 </h3>
 
 <small>
