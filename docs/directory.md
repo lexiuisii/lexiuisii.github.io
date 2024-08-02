@@ -5,9 +5,9 @@
 header name
 ----------->
 
-<div class="row" style="background-color:#141414; padding-top:30px; padding-left: 25px; padding-right: 25px; padding-bottom: 10px"><h1 style="color:#d71919"> OWEN SINGH BENNETT</h1></div>
+<div class="row" style="background-color:#141414; padding-top:30px; padding-left: 60px; padding-right: 60px; padding-bottom: 10px"><h1 style="color:#d71919"> OWEN SINGH BENNETT</h1></div>
 <div style="background-color:#d71919;padding:3px;"></div>
-<div class="row" style="background-color:#232121; padding-top:5px; padding-left: 50px; padding-right: 50px; padding-bottom: 20px">
+<div class="row" style="background-color:#232121; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px">
 
 <!---------
 profile
