@@ -1,7 +1,7 @@
 **TRIGGER WARNING:** TBA
 {: .notice--danger}
 
-<div class="row no-gutters m-4 p-4 " style="background-color:#232121;">
+<div class="row no-gutters" style="background-color:#232121; padding: 50px; margin: 20px;">
 <!---------
 header name
 ----------->
