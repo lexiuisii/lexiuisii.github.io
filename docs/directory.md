@@ -16,6 +16,7 @@ profile
     <span style="color:#d71919;">Q</span>uick Stats
 </h3>
 
+<small>
 <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">NAME</span> <span>Owen Singh Bennett</span><br>
 <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">ALIASES</span> <span>Agent IRA, Marshall Clayton, Ezra Hart</span><br>
 <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">GENDER</span> <span>Cisgender Male (He/Him)</span><br>
@@ -23,6 +24,7 @@ profile
 <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">BIRTHDAY</span> <span>July 16th</span><br>
 <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">ETHNICITY</span> <span>British/Sikh</span><br>
 <span class="text-uppercase pr-3 font-weight-bold" style="color:#d71919;letter-spacing:1px;">OCCUPATION</span> <span>Soldier</span><br>
+</small>
 
 
 </div>
