@@ -5,7 +5,7 @@
 header name
 ----------->
 
-<div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 10px">
+<div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 20px">
     <h1 style="color:#d71919"> OWEN SINGH BENNETT</h1>
     <small>"The Unyielding Soldier"</small>
 </div>
@@ -82,7 +82,7 @@ trivia
 </small>
 
 </div>
-<div class="row" style="background-color:#141414; padding-top:20px; padding-left: 60px; padding-right: 60px; padding-bottom: 25px;">
+<div class="row" style="background-color:#141414; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;">
     <div style="text-align: right; font-size: 16px"><a href="https://toyhou.se/11320894.-f2u-unity-v2"><i class="fa-solid fa-barcode"></i></a></div>
 </div>
 
