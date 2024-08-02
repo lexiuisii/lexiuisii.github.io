@@ -1,260 +1,165 @@
+---
+layout: docs
+title: Gutters
+description: Gutters are the padding between your columns, used to responsively space and align content in the Bootstrap grid system.
+group: layout
+toc: true
+---
 
+## How they work
 
-<!-------------------------------------------------
- 
- 
-        Unity 2 — Custom Coloured version.
-        (code by jiko)
-        
-        ------------------------------
-        
-        RULES
-        → Read this thoroughly please, and maybe drop a small comment saying that you've read it? :'3
-        thank youu [ https://toyhou.se/~bulletins/127417.code-rules ]
-        
-        → turn OFF WYSIWYG
-        → turn ON Code Editor
-        
-        ------------------------------
-        
-        TIPPY TIPS
-        → insert your img links INSIDE or quotation marks!!
-        → looking for a good online code editor?  try [ https://th.circlejourney.net/# ] !
-        
-        ------------------------------
-        
-        ACCENTS
-        → header + footer ----------- #222222
-        → main-bg ------------------- #f5f0ea
-        → main-text ----------------- #404040
-        → accent -------------------- #aca494
-        
-        use control/command + f to quickly change the colours!
- 
- 
- ------------------------------------------------->
- <div class="mx-auto text-justify" style="color:#404040; font-size:95%; letter-spacing:0.1px; max-width:1000px">
- <!-------------------------------------------------
- 
- 
-                 NAME // HEADER
- 
+- **Gutters are the gaps between column content, created by horizontal `padding`.** We set `padding-right` and `padding-left` on each column, and use negative `margin` to offset that at the start and end of each row to align content.
 
- ------------------------------------------------->
- <div class="p-4" style="background-color:#222222; color:#fefefe">
-    
-    <div class="pl-3 display-4 text-md-left text-uppercase">
-        <span class="font-weight-bold" style="letter-spacing:5px; color:#aca494">Name</span>
-        <span class="font-italic">!!</span>
+- **Gutters start at `1.5rem` (`24px`) wide.** This allows us to match our grid to the [padding and margin spacers]({{< docsref "/utilities/spacing" >}}) scale.
+
+- **Gutters can be responsively adjusted.** Use breakpoint-specific gutter classes to modify horizontal gutters, vertical gutters, and all gutters.
+
+## Horizontal gutters
+
+`.gx-*` classes can be used to control the horizontal gutter widths. The `.container` or `.container-fluid` parent may need to be adjusted if larger gutters are used too to avoid unwanted overflow, using a matching padding utility. For example, in the following example we've increased the padding with `.px-4`:
+
+{{< example class="bd-example-cols" >}}
+<div class="container px-4 text-center">
+  <div class="row gx-5">
+    <div class="col">
+     <div class="p-3">Custom column padding</div>
     </div>
-    <div class="pl-2 mt-2">describe . themselves . here</div>
-    
- </div>
- <div style="background-color:#aca494; padding:3px"></div>
- <!-------------------------------------------------
- 
- 
-                 IMAGE + PROFILE
- 
-
- ------------------------------------------------->
- <div class="row no-gutters" style="background-color:#f5f0ea">
-    
-    <!--------------------------------------
-
-                 FOCAL IMAGE
-
-    --------------------------------------->
-    <div class="col-lg-5">
-        <div class="h-100 w-100" style="min-height:500px;
-        
-        /* IMAGE
-        ---------------------------------------- */;
-        background-image:url(https://file.toyhou.se/images/7745356_UbxFaTbtSE8Egg6.png);
-        
-        /* BASIC SETTINGS
-        ---------------------------------------- */;
-        background-size:cover;
-        background-position:center;
-        background-repeat:no-repeat"></div>
+    <div class="col">
+      <div class="p-3">Custom column padding</div>
     </div>
-    
-    
-    <!--------------------------------------
+  </div>
+</div>
+{{< /example >}}
 
-                 PROFILE CONTENT
+An alternative solution is to add a wrapper around the `.row` with the `.overflow-hidden` class:
 
-    --------------------------------------->
-    <div class="col-lg-7">
-    <div class="p-5 table-responsive" style="height:500px">
-        
-        
-        <!--------  BASIC INFO  -------------------------------->
-        <div class="info">
-            
-            <!---------  HEADER  --------->
-            <h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
-                
-                <span style="color:#aca494">Q</span>uick Stats
-                
-            </h3><br>
-            
-            
-            <!---------  CONTENT  --------->
-            <div class="row no-gutters">
-                
-                <div class="col-md-6 py-1">
-                    <span class="text-uppercase pr-3 font-weight-bold" style="color:#aca494; letter-spacing:1px;">name</span>
-                    <span>content</span>
-                </div>
-                
-                <div class="col-md-6 py-1">
-                    <span class="text-uppercase pr-3 font-weight-bold" style="color:#aca494; letter-spacing:1px;">Age</span>
-                    <span>content</span>
-                </div>
-                
-                <div class="col-md-6 py-1">
-                    <span class="text-uppercase pr-3 font-weight-bold" style="color:#aca494; letter-spacing:1px;">Gender</span>
-                    <span>content</span>
-                </div>
-                
-                <div class="col-md-6 py-1">
-                    <span class="text-uppercase pr-3 font-weight-bold" style="color:#aca494; letter-spacing:1px;">Pronouns</span>
-                    <span>content</span>
-                </div>
-                
-                <div class="col-md-6 py-1">
-                    <span class="text-uppercase pr-3 font-weight-bold" style="color:#aca494; letter-spacing:1px;">Race</span>
-                    <span>or species</span>
-                </div>
-                
-                <div class="col-md-6 py-1">
-                    <span class="text-uppercase pr-3 font-weight-bold" style="color:#aca494; letter-spacing:1px;">Orient.</span>
-                    <span>
-                        content
-                        ( <a href="LINK_TO_CHARACTER" style="color:#aca494;"><i class="fas fa-heart fa-fw"></i></a> )
-                    </span>
-                </div>
-                
-                
-            <!--  add/delete more above THIS line  -->
-            </div>
-        </div><hr class="w-100 my-5" style="border-color:#404040; opacity:0.2">
-        
-        
-        <!--------  SUMMARY  -------------------------------->
-        <div class="summary">
-            
-            <!---------  HEADER  --------->
-            <h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
-                
-                <span style="color:#aca494">S</span>ummary
-                
-            </h3><br>
-            
-            <!---------  CONTENT  --------->
-            <div class="content">
-                
-                <p>Write a snippet of your character!</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                
-            </div>
-        </div><hr class="w-100 my-5" style="border-color:#404040; opacity:0.2">
-        
-        
-        <!--------  TRVIA  -------------------------------->
-        <div class="trivia">
-            
-            <!---------  HEADER  --------->
-            <h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
-                
-                <span style="color:#aca494">T</span>rivia
-                
-            </h3><br>
-            
-            <!---------  CONTENT  --------->
-            <ul class="pl-4">
-                
-                <li>Cras ullamcorper tellus dui, sodales porttitor dui facilisis sit amet.</li>
-                <li>In hendrerit velit sed mauris dignissim mollis.</li>
-                <li>Maecenas dui eros, cursus vel nulla a, finibus iaculis metus</li>
-                <li>Mauris congue, tortor quis pretium pretium, sapien justo pulvinar nibh, et commodo tellus magna nec nisl.</li>
-                <li>Ut et velit viverra turpis gravida porta. Donec quis volutpat velit. Integer sagittis sed velit ornare rutrum.</li>
-                
-            </ul>
-        </div><hr class="w-100 my-5" style="border-color:#404040; opacity:0.2">
-        
-        
-        <!--------  DESIGN NOTES  -------------------------------->
-        <div class="notes">
-            
-            <!---------  HEADER  --------->
-            <h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
-                
-                <span style="color:#aca494">D</span>esign Notes
-                
-            </h3><br>
-            
-            <!---------  CONTENT  --------->
-            <div class="row no-gutters mb-3">
-                
-                <div class="col-md-6 py-1">
-                    <span class="text-uppercase pr-3 font-weight-bold" style="color:#aca494; letter-spacing:1px;">Designer</span>
-                    <span>@ user</span>
-                </div>
-                
-                <div class="col-md-6 py-1">
-                    <span class="text-uppercase pr-3 font-weight-bold" style="color:#aca494; letter-spacing:1px;">Obtained</span>
-                    <!-- trade, sale, initial creation, etc. -->
-                    <span>content</span>
-                </div>
-                
-                <div class="col-md-6 py-1">
-                    <span class="text-uppercase pr-3 font-weight-bold" style="color:#aca494; letter-spacing:1px;">Worth</span>
-                    <span>$$$</span>
-                </div>
-                
-                <div class="col-md-6 py-1">
-                    <span class="text-uppercase pr-3 font-weight-bold" style="color:#aca494; letter-spacing:1px;">Status</span>
-                    <span>content</span>
-                </div>
-            </div>
-            <ul class="pl-4">
-                
-                <li>note</li>
-                <li>note</li>
-                <li>note</li>
-                <li>note</li>
-                
-            <!--  add/delete more above THIS line  -->
-            </ul>
-        </div>
-        
-    <!--  add/delete more sections above THIS line  -->
+{{< example class="bd-example-cols" >}}
+<div class="container overflow-hidden text-center">
+  <div class="row gx-5">
+    <div class="col">
+     <div class="p-3">Custom column padding</div>
     </div>
+    <div class="col">
+      <div class="p-3">Custom column padding</div>
     </div>
- </div>
- <!-------------------------------------------------
- 
- 
-                CREDIT // FOOTER
- 
+  </div>
+</div>
+{{< /example >}}
 
- ------------------------------------------------->
- <div class="px-4 py-3" style="background-color:#222222; color:#aca494">
-    
-    <div class="text-right small" style="letter-spacing:0.5em">
-        <a href="https://toyhou.se/jiko" class="text-reset tooltipster"
-        title="code by jiko" style="text-decoration:none">
-            <i class="far fa-code"></i>
-        </a>
-        .
-        <a href="LINK_TO_ARTIST" class="text-reset tooltipster"
-        title="image by ARTIST" style="text-decoration:none">
-            <i class="far fa-image"></i>
-        </a>
+## Vertical gutters
+
+`.gy-*` classes can be used to control the vertical gutter widths within a row when columns wrap to new lines. Like the horizontal gutters, the vertical gutters can cause some overflow below the `.row` at the end of a page. If this occurs, you add a wrapper around `.row` with the `.overflow-hidden` class:
+
+{{< example class="bd-example-cols" >}}
+<div class="container overflow-hidden text-center">
+  <div class="row gy-5">
+    <div class="col-6">
+      <div class="p-3">Custom column padding</div>
     </div>
-    
- </div>
- </div>
+    <div class="col-6">
+      <div class="p-3">Custom column padding</div>
+    </div>
+    <div class="col-6">
+      <div class="p-3">Custom column padding</div>
+    </div>
+    <div class="col-6">
+      <div class="p-3">Custom column padding</div>
+    </div>
+  </div>
+</div>
+{{< /example >}}
 
+## Horizontal & vertical gutters
+
+Use `.g-*` classes to control the horizontal and vertical grid gutters. In the example below, we use a smaller gutter width, so there isn't a need for the `.overflow-hidden` wrapper class.
+
+{{< example class="bd-example-cols" >}}
+<div class="container text-center">
+  <div class="row g-2">
+    <div class="col-6">
+      <div class="p-3">Custom column padding</div>
+    </div>
+    <div class="col-6">
+      <div class="p-3">Custom column padding</div>
+    </div>
+    <div class="col-6">
+      <div class="p-3">Custom column padding</div>
+    </div>
+    <div class="col-6">
+      <div class="p-3">Custom column padding</div>
+    </div>
+  </div>
+</div>
+{{< /example >}}
+
+## Row columns gutters
+
+Gutter classes can also be added to [row columns]({{< docsref "/layout/grid#row-columns" >}}). In the following example, we use responsive row columns and responsive gutter classes.
+
+{{< example class="bd-example-cols" >}}
+<div class="container text-center">
+  <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+    <div class="col">
+      <div class="p-3">Row column</div>
+    </div>
+    <div class="col">
+      <div class="p-3">Row column</div>
+    </div>
+    <div class="col">
+      <div class="p-3">Row column</div>
+    </div>
+    <div class="col">
+      <div class="p-3">Row column</div>
+    </div>
+    <div class="col">
+      <div class="p-3">Row column</div>
+    </div>
+    <div class="col">
+      <div class="p-3">Row column</div>
+    </div>
+    <div class="col">
+      <div class="p-3">Row column</div>
+    </div>
+    <div class="col">
+      <div class="p-3">Row column</div>
+    </div>
+    <div class="col">
+      <div class="p-3">Row column</div>
+    </div>
+    <div class="col">
+      <div class="p-3">Row column</div>
+    </div>
+  </div>
+</div>
+{{< /example >}}
+
+## No gutters
+
+The gutters between columns in our predefined grid classes can be removed with `.g-0`. This removes the negative `margin`s from `.row` and the horizontal `padding` from all immediate children columns.
+
+**Need an edge-to-edge design?** Drop the parent `.container` or `.container-fluid` and add `.mx-0` to the `.row` to prevent overflow.
+
+In practice, here's how it looks. Note that you can continue to use this with all other predefined grid classes (including column widths, responsive tiers, reorders, and more).
+
+{{< example class="bd-example-row" >}}
+<div class="row g-0 text-center">
+  <div class="col-sm-6 col-md-8">.col-sm-6 .col-md-8</div>
+  <div class="col-6 col-md-4">.col-6 .col-md-4</div>
+</div>
+{{< /example >}}
+
+## Change the gutters
+
+Classes are built from the `$gutters` Sass map which is inherited from the `$spacers` Sass map.
+
+```scss
+$grid-gutter-width: 1.5rem;
+$gutters: (
+  0: 0,
+  1: $spacer * .25,
+  2: $spacer * .5,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+);
+```
