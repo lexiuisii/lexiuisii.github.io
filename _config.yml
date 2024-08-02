@@ -3,9 +3,6 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 plugins:
   - jekyll-include-cache
-  
-layout: splash
-classes: wide
 
 defaults:
   # _posts
@@ -14,7 +11,6 @@ defaults:
       type: pages
     values:
       layout: splash
-      classes: wide
       author_profile: false
 
 head_scripts:
