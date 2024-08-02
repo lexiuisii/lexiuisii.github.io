@@ -10,7 +10,8 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash
+      classes: wide
       author_profile: false
 
 head_scripts:
