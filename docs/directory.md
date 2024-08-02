@@ -80,7 +80,7 @@ trivia
 
 </div>
 <div class="row" style="background-color:#141414; padding: 20px;">
-    <div style="text-align: right; font-size: 12px"><a href="https://toyhou.se/jiko">credits.</a></div>
+    <div style="text-align: right; font-size: 12px"><a href="https://toyhou.se/jiko"><i class="fa-solid fa-barcode"></i></a></div>
 </div>
 
 
