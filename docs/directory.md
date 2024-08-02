@@ -8,10 +8,10 @@ header name
 ----------->
 
 <div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 25px">
-    <h1 style="color:#d71919">OWEN SINGH BENNETT</h1>
+    <h1 style="color:#DC143C">OWEN SINGH BENNETT</h1>
     <small>"The Unyielding Soldier"</small>
 </div>
-<div style="background-color:#d71919;padding:3px;"></div>
+<div style="background-color:#DC143C;padding:3px;"></div>
 <div class="row" style="background-color:#232121; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
 
 <!---------
@@ -19,7 +19,7 @@ profile
 ----------->
 
 <h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
-    <span style="color:#d71919;">P</span>rofile
+    <span style="color:#DC143C;">P</span>rofile
 </h3>
 
 <small>
@@ -38,7 +38,7 @@ profile
 personality
 ----------->
 <h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
-    <span style="color:#d71919;">P</span>ersonality
+    <span style="color:#DC143C;">P</span>ersonality
 </h3>
 
 <small>
@@ -53,7 +53,7 @@ personality
 backstory
 ----------->
 <h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
-    <span style="color:#d71919;">B</span>ackstory
+    <span style="color:#DC143C;">B</span>ackstory
 </h3>
 
 <small>
@@ -70,7 +70,7 @@ trivia
 ----------->
 
 <h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
-    <span style="color:#d71919;">T</span>rivia
+    <span style="color:#DC143C;">T</span>rivia
 </h3>
 
 <small>
