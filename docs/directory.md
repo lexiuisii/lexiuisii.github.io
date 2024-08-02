@@ -1,13 +1,12 @@
 **TRIGGER WARNING:** TBA
 {: .notice--danger}
 
-<div class="row" style="background-color:#141414; margin: 20px;">&#09;</div>
-<div class="row" style="background-color:#232121; padding: 50px; margin: 20px;">
 <!---------
 header name
 ----------->
 
-<h1 style="color:#d71919"> OWEN SINGH BENNETT</h1>
+<div class="row" style="background-color:#141414; margin: 20px;"><h1 style="color:#d71919"> OWEN SINGH BENNETT</h1></div>
+<div class="row" style="background-color:#232121; padding: 50px; margin: 20px;">
 
 <!---------
 profile
