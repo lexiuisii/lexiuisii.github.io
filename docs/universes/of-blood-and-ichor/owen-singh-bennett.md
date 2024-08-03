@@ -59,7 +59,7 @@ personality
 
 <p>Efficient, Forceful, Competitive, Romantic, Steadfast.</p>
 
-<p>Uncooperative, Immature, Aggressive, Self-Conscious, Callous></p>
+<p>Uncooperative, Immature, Aggressive, Self-Conscious, Callous.</p>
 
 </small>
 
