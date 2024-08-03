@@ -3,8 +3,6 @@ layout: single
 sidebar:
     title: "Universes"
     nav: sidebar-universes
-    title: "Archived"
-    nav: sidebar-archived
 sidebar-universes:
   - title: "Of Blood and Ichor"
     children:
