@@ -100,20 +100,4 @@ trivia
     <div style="text-align: right; font-size: 16px"><a href="https://toyhou.se/11320894.-f2u-unity-v2"><i class="fa-solid fa-barcode"></i></a></div>
 </div>
 
----
-gallery:
-  - url: https://unsplash.com/photos/brown-and-black-snake-on-ground-vec5yfUvCGs
-    image_path: https://unsplash.com/photos/brown-and-black-snake-on-ground-vec5yfUvCGs
-    alt: "Reticulated Python"
-    title: "By David Clode on Unsplash"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
----
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include owen-gallery caption="Moodboard" %}
