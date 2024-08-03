@@ -54,9 +54,14 @@ personality
 </h3>
 
 <small>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat vestibulum fermentum. Nullam aliquet ipsum mauris, quis tincidunt neque porttitor vitae. Nam condimentum faucibus ornare. Nunc euismod vitae erat id iaculis. Fusce ac fringilla velit, at eleifend augue. Quisque pellentesque tempor tellus. Aliquam id pulvinar risus. Nunc varius ante ac nisl lacinia suscipit. In quis risus quis sapien sagittis pulvinar. Donec at viverra sapien. Nam consectetur quis augue eu tincidunt.</p>
+`[ Positive Traits ]` 
+- Adaptable, Suave, Fun-Loving, Personable, Protective
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat vestibulum fermentum. Nullam aliquet ipsum mauris, quis tincidunt neque porttitor vitae. Nam condimentum faucibus ornare. Nunc euismod vitae erat id iaculis. Fusce ac fringilla velit, at eleifend augue. Quisque pellentesque tempor tellus. Aliquam id pulvinar risus. Nunc varius ante ac nisl lacinia suscipit. In quis risus quis sapien sagittis pulvinar. Donec at viverra sapien. Nam consectetur quis augue eu tincidunt.</p>
+`[ Neutral Traits ]`
+- Efficient, Forceful, Competitive, Romantic, Steadfast
+
+`[ Negative Traits ]`
+- Uncooperative, Immature, Aggressive, Self-Conscious, Callous
 </small>
 
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
