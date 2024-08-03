@@ -55,14 +55,11 @@ personality
 
 <small>
 
-`[ Positive Traits ]`
-- Adaptable, Suave, Fun-Loving, Personable, Protective
+<p>Adaptable, Suave, Fun-Loving, laid-Back, Protective.</p>
 
-`[ Neutral Traits ]`
-- Efficient, Forceful, Competitive, Romantic, Steadfast
+<p>Efficient, Forceful, Competitive, Romantic, Steadfast.</p>
 
-`[ Negative Traits ]`
-- Uncooperative, Immature, Aggressive, Self-Conscious, Callous
+<p>Uncooperative, Immature, Aggressive, Self-Conscious, Callous></p>
 
 </small>
 
