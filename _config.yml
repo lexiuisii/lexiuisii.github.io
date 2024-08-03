@@ -6,6 +6,9 @@ title: "OC COMPENDIUM"
 plugins:
   - jekyll-include-cache
 
+atom_feed:
+  hide: true
+
 defaults:
   # _posts
   - scope:
