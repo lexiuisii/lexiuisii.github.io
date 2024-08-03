@@ -20,6 +20,6 @@ Universes below have been archived due to the roleplay groups ending, or are no 
 {: .notice}
 
 **Golden Gateways**
-> Roleplay group based on the World of Darkness set in San Fracisco, California during 1945. Where characters live in SF that has a barrier protecting them from True Fae but in recent times has been waning, with monsters invading the city as they deal with adhering to the Masquerade and solving the mysteries of the fae beasts invading.
+> Roleplay group based on the World of Darkness set in San Francisco, California during 1945. Where characters live in SF with a barrier protecting them from True Fae but in recent times has been waning, allowing monsters to invade the city as they deal with adhering to the Masquerade and solving the mysteries of the fae beasts.
 
 ***
