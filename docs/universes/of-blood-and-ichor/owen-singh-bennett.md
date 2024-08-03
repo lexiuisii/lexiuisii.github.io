@@ -94,11 +94,22 @@ trivia
 
 <small>
 <ul>
-<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+<li><span class="text-uppercase pr-3 font-weight-bold" style="color:#DC143C;letter-spacing:1px;">INSPIRATION</span> &#09;&#09;
+    Jason Todd (Batman), Wade Wilson (Deadpool), Oliver Queen (Green Arrow) and Todoroki Dabi (My Hero Academia)<br>
+</li>
+<li><span class="text-uppercase pr-3 font-weight-bold" style="color:#DC143C;letter-spacing:1px;">VOICE CLAIM</span> &#09;&#09;
+    [Oliver Jackson-Cohen](https://m.youtube.com/watch?v=m81VbwYK80Q)<br>
+</li>
+<li><span class="text-uppercase pr-3 font-weight-bold" style="color:#DC143C;letter-spacing:1px;">THEME SONG</span> &#09;&#09;
+    TBA<br>
+</li>
+<li><span class="text-uppercase pr-3 font-weight-bold" style="color:#DC143C;letter-spacing:1px;">MBTI TYPE</span> &#09;&#09;
+    ESFP - The Entertainer<br>
+</li>
+<li>Loves sweets, he enjoys any sweet treat and his form of love language is sharing or buying treats for others.</li>
+<li>Also a big fan of cooking, London's food sucks and he practiced cooking curries and cuisines to survive.</li>
+<li>He can play both the piano and violin, but he's very rusty and would probably play the wrong tunes half the time.</li>
+<li>Loved Pokémon as a kid, didn't get much chance to play it so he's making up for lost time now. He's not a very good strategy player, just enjoys collecting cool Pokémons.</li>
 </ul>
 </small>
 
