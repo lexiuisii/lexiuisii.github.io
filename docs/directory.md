@@ -10,24 +10,6 @@ sidebar-universes:
     children:
       - title: "Owen Singh Bennett"
         url: https://lexiuisii.github.io/docs/universes/of-blood-and-ichor/owen-singh-bennett
-
-sidebar-archived:
-  - title: "World of Darkness"
-    children:
-      - title: "Eris Aylesworth"
-        url: /
-  - title: "Golden Gateways"
-    children:
-      - title: "Elijah Lombardi"
-        url: /
-  - title: "Elysian Vision"
-    children:
-      - title: "Wynona Silas"
-        url: /
-  - title: "Crescent City"
-    children:
-      - title: "Nonasilas Nine"
-        url: /
 ---
 
 Utilize the sidebars to navigate OCs and their universes!
