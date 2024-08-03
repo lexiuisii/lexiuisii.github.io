@@ -1,7 +1,7 @@
 ---
 gallery:
   - url: https://unsplash.com/photos/a-close-up-of-a-bird-BGrAgd4IAxE
-    image_path: https://unsplash.com/photos/a-close-up-of-a-bird-BGrAgd4IAxE.akim
+    image_path: https://unsplash.com/photos/a-close-up-of-a-bird-BGrAgd4IAxE.avif
     alt: "Reticulated Python"
   - url: https://source.unsplash.com/photos/grayscale-photo-of-rocky-mountain-OYlhih1s830
     image_path: https://unsplash.com/photos/grayscale-photo-of-rocky-mountain-OYlhih1s830
