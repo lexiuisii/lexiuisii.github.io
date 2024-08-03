@@ -1,3 +1,18 @@
+---
+gallery:
+  - url: https://source.unsplash.com/a-close-up-of-a-bird-BGrAgd4IAxE.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "Reticulayed Python"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+---
+
 > **STC Evaluation Report**
 >- Threat Level: `High` (Defiant)
 >- Affiliation: `STC Employee`
@@ -99,3 +114,5 @@ trivia
 <div class="row" style="background-color:#141414; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;">
     <div style="text-align: right; font-size: 16px"><a href="https://toyhou.se/11320894.-f2u-unity-v2"><i class="fa-solid fa-barcode"></i></a></div>
 </div>
+
+{% include gallery %}
