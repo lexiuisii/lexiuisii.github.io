@@ -54,7 +54,8 @@ personality
 </h3>
 
 <small>
-`[ Positive Traits ]` 
+
+`[ Positive Traits ]`
 - Adaptable, Suave, Fun-Loving, Personable, Protective
 
 `[ Neutral Traits ]`
@@ -62,6 +63,7 @@ personality
 
 `[ Negative Traits ]`
 - Uncooperative, Immature, Aggressive, Self-Conscious, Callous
+
 </small>
 
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
