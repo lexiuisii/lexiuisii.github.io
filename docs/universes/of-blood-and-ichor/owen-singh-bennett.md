@@ -103,7 +103,7 @@ trivia
 ---
 gallery:
   - url: https://unsplash.com/photos/brown-and-black-snake-on-ground-vec5yfUvCGs
-    imahe_path: https://unsplash.com/photos/brown-and-black-snake-on-ground-vec5yfUvCGs
+    image_path: https://unsplash.com/photos/brown-and-black-snake-on-ground-vec5yfUvCGs
     alt: "Reticulated Python"
     title: "By David Clode on Unsplash"
   - url: /assets/images/unsplash-gallery-image-2.jpg
