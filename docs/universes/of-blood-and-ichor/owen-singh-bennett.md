@@ -101,7 +101,7 @@ trivia
 </div>
 
 <figure class="third">
-	<img src="https://images.unsplash.com/photo-1655955236657-8439f04648b7?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+	<img src="https://source.unsplash.com/a-close-up-of-a-bird-BGrAgd4IAxE">
 	<img src="https://unsplash.com/photos/grayscale-photo-of-rocky-mountain-OYlhih1s830">
 	<img src="https://unsplash.com/photos/a-close-up-of-a-chain-on-a-table-baEhchJOONw">
 </figure>
