@@ -6,7 +6,6 @@ title: "OC Compendium"
 plugins:
   - jekyll-include-cache
 
-baseurl: /docs/directory
 defaults:
   # _posts
   - scope:
