@@ -30,4 +30,4 @@ Universes below have been archived due to the roleplay groups ending, or are no 
 ***
 
 **Crescent City**
-> Prequel to Golden Gateways. Roleplay group based on the World of Darkness in New Orleans, Louisiana furing 1920. Awakened city that comes with its own faction disputes with the mysteries of the Vox Phantasma and Vox Populi threatning the balance. Characters have to manage their own relation alongside finding themselves in the new power struggle.
+> Prequel to Golden Gateways. Roleplay group based on the World of Darkness in New Orleans, Louisiana during 1920. Awakened city that comes with its own faction disputes with the mysteries of the Vox Phantasma and Vox Populi threatning the balance. Characters have to manage their own relation alongside finding themselves in the new power struggle.
