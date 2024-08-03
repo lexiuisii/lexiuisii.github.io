@@ -8,7 +8,7 @@ sidebar:
 Utilize the sidebars to navigate OCs and their universes!
 {: .notice--info}
 
-## Active Universes
+## A C T I VE
 
 **Of Blood and Ichor**
 > My personal universe that's based on a lot of media I enjoy! Urban fantasy with themes of eldritch horror, magictech elements and the relationship of major factions dealing with them, still a work in progress so bare with me.
@@ -20,7 +20,7 @@ Utilize the sidebars to navigate OCs and their universes!
 
 ***
 
-## Archived
+## A R C H I V E
 
 **Golden Gateways**
 > Roleplay group based on the World of Darkness set in San Fracisco, California during 1945. Where characters live in SF that has a barrier protecting them from True Fae but in recent times has been waning, with monsters invading the city as they deal with adhering to the Masquerade and solving the mysteries of the fae beasts invading.
