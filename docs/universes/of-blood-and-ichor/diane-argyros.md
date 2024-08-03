@@ -10,7 +10,7 @@ header names
 
 <div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 25px">
     <h1 style="color:#008080">Diane Argyros</h1>
-    <small>"The Unyielding Soldier"</small>
+    <small>"The Merciless Bioengineer"</small>
 </div>
 <div style="background-color:#008080;padding:3px;"></div>
 <div class="row" style="background-color:#141414; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
