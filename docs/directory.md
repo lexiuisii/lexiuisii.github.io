@@ -3,11 +3,6 @@ layout: single
 sidebar:
     title: "Universes"
     nav: sidebar-universes
-sidebar-universes:
-  - title: "Of Blood and Ichor"
-    children:
-      - title: "Owen Singh Bennett"
-        url: https://lexiuisii.github.io/docs/universes/of-blood-and-ichor/owen-singh-bennett
 ---
 
 Utilize the sidebars to navigate OCs and their universes!
