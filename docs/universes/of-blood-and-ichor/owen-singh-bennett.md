@@ -1,11 +1,3 @@
----
-header:
-  image: https://images.unsplash.com/photo-1649375640804-058ae9ae8f5e?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif
-  caption: "Photo credit: [**Glenn Villas**](https://unsplash.com/photos/a-close-up-of-a-chain-on-a-table-baEhchJOONw)"
-excerpt: ""
-
----
-
 > **STC Evaluation Report**
 >- Threat Level: `High` (Defiant)
 >- Affiliation: `STC Employee`
