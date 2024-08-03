@@ -4,7 +4,7 @@ sidebar:
   - title: "Of Blood and Ichor"
     children:
       - title: "Owen Singh Bennett"
-        url: /
+        url: https://lexiuisii.github.io/docs/universes/of-blood-and-ichor/owen-singh-bennett
   - title: "World of Darkness"
     children:
       - title: "Eris Aylesworth"
