@@ -41,7 +41,7 @@ profile
 <span class="text-uppercase pr-3 font-weight-bold" style="color:#008080;letter-spacing:1px;">ETHNICITY</span> &#09;&#09;
   American<br>
 <span class="text-uppercase pr-3 font-weight-bold" style="color:#008080;letter-spacing:1px;">OCCUPATION</span> &#09;&#09;
-  Biomedical Engineer<br>
+  Bioengineer<br>
 </small>
 
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
