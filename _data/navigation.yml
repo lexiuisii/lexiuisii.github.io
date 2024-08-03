@@ -1,10 +1,13 @@
 main:
   - title: "Directory"
     url: https://lexiuisii.github.io/docs/directory
-    children:
-      - title: "Of Blood and Ichor"
-        url: https://lexiuisii.github.io/docs/directory
   - title: "Lore"
     url: https://lexiuisii.github.io/docs/lore
   - title: "Test"
     url: https://lexiuisii.github.io/docs/test
+
+sidebar-universes:
+  - title: "Of Blood and Ichor"
+    children:
+      - title: "Owen Singh Bennett"
+        url: https://lexiuisii.github.io/docs/universes/of-blood-and-ichor/owen-singh-bennett
