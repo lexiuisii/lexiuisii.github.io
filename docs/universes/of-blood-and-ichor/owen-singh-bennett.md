@@ -55,12 +55,11 @@ personality
 
 <small>
 
-<p>Adaptable, Suave, Fun-Loving, laid-Back, Protective.</p>
-
-<p>Efficient, Forceful, Competitive, Romantic, Steadfast.</p>
-
-<p>Uncooperative, Immature, Aggressive, Self-Conscious, Callous.</p>
-
+<ul>
+<li>Adaptable, Suave, Fun-Loving, laid-Back, Protective.</li>
+<li>Efficient, Forceful, Competitive, Romantic, Steadfast.</li>
+<li>Uncooperative, Immature, Aggressive, Self-Conscious, Callous.</li>
+</ul>
 </small>
 
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
@@ -92,7 +91,11 @@ trivia
 <small>
 <ul>
 <li><span class="text-uppercase pr-3 font-weight-bold" style="color:#DC143C;letter-spacing:1px;">INSPIRATION</span> &#09;&#09;
-    Jason Todd (Batman), Wade Wilson (Deadpool), Oliver Queen (Green Arrow) and Todoroki Dabi (My Hero Academia)<br>
+    <ul><li>Jason Todd (Batman)</li>
+        <li>Wade Wilson (Deadpool)</li>
+        <li>Oliver Queen (Green Arrow)</li>
+        <li>Todoroki Dabi (My Hero Academia)</li>
+    </ul><br>
 </li>
 <li><span class="text-uppercase pr-3 font-weight-bold" style="color:#DC143C;letter-spacing:1px;">VOICE CLAIM</span> &#09;&#09;
     <a href="https://m.youtube.com/watch?v=m81VbwYK80Q">Oliver Jackson-Cohen</a><br>
