@@ -1,6 +1,6 @@
 ---
 layout: single
-sidebar-sample:
+sidebar:
   - title: "Of Blood and Ichor"
     children:
       - title: "Owen Singh Bennett"
