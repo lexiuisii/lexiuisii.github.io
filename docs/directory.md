@@ -23,8 +23,6 @@ sidebar:
         url: /
 ---
 
-# Directory
-
 Utilize the sidebars to navigate OCs and their universes!
 {: .notice--info}
 
