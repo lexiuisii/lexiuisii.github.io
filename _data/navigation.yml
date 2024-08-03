@@ -1,10 +1,8 @@
 main:
-  - title: "Directory"
+  - title: "DIRECTORY"
     url: https://lexiuisii.github.io/docs/directory
-  - title: "Lore"
+  - title: "LORE"
     url: https://lexiuisii.github.io/docs/lore
-  - title: "Test"
-    url: https://lexiuisii.github.io/docs/test
 
 sidebar-universes:
   - title: "Of Blood and Ichor"
