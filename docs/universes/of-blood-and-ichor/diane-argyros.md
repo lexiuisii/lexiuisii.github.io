@@ -2,7 +2,7 @@
 >- Threat Level: `Low` (Compliant)
 >- Affiliation: `STC Employee`
 >- Status: `Confirmed Amalgam`
-{: .notice--notice}
+{: .notice--info}
 
 <!---------
 header names
