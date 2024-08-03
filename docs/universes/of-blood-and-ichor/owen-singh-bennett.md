@@ -95,16 +95,16 @@ trivia
         <li>Wade Wilson (Deadpool)</li>
         <li>Oliver Queen (Green Arrow)</li>
         <li>Todoroki Dabi (My Hero Academia)</li>
-    </ul><br>
+    </ul>
 </li>
 <li><span class="text-uppercase pr-3 font-weight-bold" style="color:#DC143C;letter-spacing:1px;">VOICE CLAIM</span> &#09;&#09;
-    <a href="https://m.youtube.com/watch?v=m81VbwYK80Q">Oliver Jackson-Cohen</a><br>
+    <a href="https://m.youtube.com/watch?v=m81VbwYK80Q">Oliver Jackson-Cohen</a>
 </li>
 <li><span class="text-uppercase pr-3 font-weight-bold" style="color:#DC143C;letter-spacing:1px;">THEME SONG</span> &#09;&#09;
-    TBA<br>
+    TBA
 </li>
 <li><span class="text-uppercase pr-3 font-weight-bold" style="color:#DC143C;letter-spacing:1px;">MBTI TYPE</span> &#09;&#09;
-    ESFP - The Entertainer<br>
+    ESFP - The Entertainer
 </li>
 <li>Loves sweets, he enjoys any sweet treat and his form of love language is sharing or buying treats for others.</li>
 <li>Also a big fan of cooking, London's food sucks and he practiced cooking curries and cuisines to survive.</li>
