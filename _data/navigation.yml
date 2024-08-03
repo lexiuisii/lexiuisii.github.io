@@ -9,5 +9,7 @@ main:
 sidebar-universes:
   - title: "Of Blood and Ichor"
     children:
+      - title: "Diane Argyros"
+        url: /docs/universes/of-blood-and-ichor/diane-argyros
       - title: "Owen Singh Bennett"
         url: /docs/universes/of-blood-and-ichor/owen-singh-bennett
