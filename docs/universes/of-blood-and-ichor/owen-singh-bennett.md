@@ -114,8 +114,8 @@ trivia
 </div>
 
 <figure class="third">
-	<img src="https://images.unsplash.com/photo-1655955236657-8439f04648b7?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif" style="max-height:50px">
-	<img src="https://images.unsplash.com/photo-1599389931990-ffb2373161b5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif" style="max-height:50px">
-	<img src="https://images.unsplash.com/photo-1649375640804-058ae9ae8f5e?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif" style="max-height:50px">
+	<img src="https://images.unsplash.com/photo-1655955236657-8439f04648b7?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif" height="50">
+	<img src="https://images.unsplash.com/photo-1599389931990-ffb2373161b5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif" height="50">
+	<img src="https://images.unsplash.com/photo-1649375640804-058ae9ae8f5e?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif" height="50">
 </figure>
 
