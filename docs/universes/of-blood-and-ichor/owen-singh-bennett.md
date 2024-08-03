@@ -1,7 +1,7 @@
 ---
 gallery:
-  - url: https://source.unsplash.com/a-close-up-of-a-bird-BGrAgd4IAxE.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - url: https://source.unsplash.com/a-close-up-of-a-bird-BGrAgd4IAxE
+    image_path: https://source.unsplash.com/a-close-up-of-a-bird-BGrAgd4IAxE.jpg
     alt: "Reticulayed Python"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: /assets/images/unsplash-gallery-image-2-th.jpg
