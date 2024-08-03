@@ -1,7 +1,6 @@
 ---
 layout: single
 sidebar:
-    title: "Universes"
     nav: sidebar-universes
 ---
 
