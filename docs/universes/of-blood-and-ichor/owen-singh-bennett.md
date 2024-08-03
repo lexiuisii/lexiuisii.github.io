@@ -3,10 +3,9 @@ gallery:
   - url: https://source.unsplash.com/a-close-up-of-a-bird-BGrAgd4IAxE
     image_path: https://source.unsplash.com/a-close-up-of-a-bird-BGrAgd4IAxE.jpg
     alt: "Reticulayed Python"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+  - url: https://source.unsplash.com/photos/grayscale-photo-of-rocky-mountain-OYlhih1s830
+    image_path: https://unsplash.com/photos/grayscale-photo-of-rocky-mountain-OYlhih1s830
+    alt: "Rocky Cliff Surface"
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
