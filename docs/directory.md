@@ -14,12 +14,20 @@ Utilize the sidebars to navigate OCs and their universes!
 ***
 
 **World of Darkness**
-> Universe by White Wolf where many of my OCs have a alternate universe version of. Stories that revolve around monsters and people that hide the supernatural elements of the world from the masses and how they deal with their inner demons. Main focus on Vampire: The Masquerade, Werewolf: The Apocalypse and Mage: The Ascension!
+> Universe by White Wolf where many of my OCs have a alternate universe version of themselves. Stories that revolve around monsters and people that hide the supernatural from the masses and how they deal with their inner demons. Main focus on Vampire: The Masquerade, Werewolf: The Apocalypse and Mage: The Ascension!
 
 Universes below have been archived due to the roleplay groups ending, or are no longer actively in use by me!
 {: .notice}
 
 **Golden Gateways**
-> Roleplay group based on the World of Darkness set in San Francisco, California during 1945. Where characters live in SF with a barrier protecting them from True Fae but in recent times has been waning, allowing monsters to invade the city as they deal with adhering to the Masquerade and solving the mysteries of the fae beasts.
+> Sequel to Crescent City. Roleplay group based on the World of Darkness set in San Francisco, California during 1945. A barrier protecting the city from True Fae has been waning in revent times, allowing monsters to invade the city. Characters have to deal with adhering to the Masquerade while solving the mysteries of the fae beasts before everything is ruined.
 
 ***
+
+**Elysian Vision**
+> Roleplay group set in a scifi universe far in the future where many alien species exist alongside humans. However, invaders that destroy planets threaten the peace and the world has to band together in order to face the danger. Forming the Coalition for Cosmic Collectiveness in order to fight back against the mysterious Proxies that have already taken over countless planets.
+
+***
+
+**Crescent City**
+> Prequel to Golden Gateways. Roleplay group based on the World of Darkness in New Orleans, Louisiana furing 1920. Awakened city that comes with its own faction disputes with the mysteries of the Vox Phantasma and Vox Populi threatning the balance. Characters have to manage their own relation alongside finding themselves in the new power struggle.
