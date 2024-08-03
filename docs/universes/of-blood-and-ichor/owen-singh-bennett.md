@@ -1,19 +1,3 @@
----
-owen-gallery:
-  - url: https://unsplash.com/photos/brown-and-black-snake-on-ground-vec5yfUvCGs 
-    image_path: https://unsplash.com/photos/brown-and-black-snake-on-ground-vec5yfUvCGs 
-    alt: "Reticulated Python"
-    title: "By Dabid Clode on Unspalsh"
-  - url: https://unsplash.com/photos/grayscale-photo-of-rocky-mountain-OYlhih1s830
-    image_path: https://unsplash.com/photos/grayscale-photo-of-rocky-mountain-OYlhih1s830
-    alt: "Rocky Mountain Surface"
-    title: "By Jack B on Unsplash"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
----
-
 > **STC Evaluation Report**>- Threat Level: `High` (Defiant)
 >- Affiliation: `STC Employee`
 >- Status: `Confirmed Amalgam`
@@ -115,4 +99,8 @@ trivia
     <div style="text-align: right; font-size: 16px"><a href="https://toyhou.se/11320894.-f2u-unity-v2"><i class="fa-solid fa-barcode"></i></a></div>
 </div>
 
-{% include owen-gallery %}
+<figure class="third">
+	<img src="https://unsplash.com/photos/a-close-up-of-a-bird-BGrAgd4IAxE">
+	<img src="https://unsplash.com/photos/grayscale-photo-of-rocky-mountain-OYlhih1s830">
+	<img src="https://unsplash.com/photos/a-close-up-of-a-chain-on-a-table-baEhchJOONw">
+</figure>
