@@ -1,10 +1,19 @@
 ---
 layout: single
 sidebar:
+    title: "Universes"
+    nav: sidebar-universes
+    title: "Archived"
+    nav: sidebar-archived
+---
+
+sidebar-universes:
   - title: "Of Blood and Ichor"
     children:
       - title: "Owen Singh Bennett"
         url: https://lexiuisii.github.io/docs/universes/of-blood-and-ichor/owen-singh-bennett
+
+sidebar-archived:
   - title: "World of Darkness"
     children:
       - title: "Eris Aylesworth"
