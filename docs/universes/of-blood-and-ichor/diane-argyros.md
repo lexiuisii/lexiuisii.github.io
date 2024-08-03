@@ -13,7 +13,7 @@ header names
     <small>"The Merciless Bioengineer"</small>
 </div>
 <div style="background-color:#008080;padding:3px;"></div>
-<div class="row" style="background-color:#141414; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
+<div class="row" style="background-color:#232121; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
 
 <!---------
 profile
