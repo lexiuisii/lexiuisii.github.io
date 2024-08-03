@@ -8,8 +8,6 @@ sidebar:
 Utilize the sidebars to navigate OCs and their universes!
 {: .notice--info}
 
-## A C T I VE
-
 **Of Blood and Ichor**
 > My personal universe that's based on a lot of media I enjoy! Urban fantasy with themes of eldritch horror, magictech elements and the relationship of major factions dealing with them, still a work in progress so bare with me.
 
