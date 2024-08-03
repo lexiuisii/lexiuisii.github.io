@@ -1,13 +1,10 @@
 main:
   - title: "Directory"
-    icon: "fas fa-bookmark"
     url: https://lexiuisii.github.io/docs/directory
     children:
       - title: "Of Blood and Ichor"
         url: https://lexiuisii.github.io/docs/directory
   - title: "Lore"
-    icon: "fas fa-book"
     url: https://lexiuisii.github.io/docs/lore
   - title: "Test"
-    icon: "fas fa-pen"
     url: https://lexiuisii.github.io/docs/test
