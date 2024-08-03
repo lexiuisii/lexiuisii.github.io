@@ -4,7 +4,6 @@ sidebar:
     nav: sidebar-universes
 ---
 
-# Universes
 Utilize the sidebars to navigate OCs and their profiles!
 {: .notice--info}
 
