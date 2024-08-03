@@ -98,7 +98,7 @@ trivia
     Jason Todd (Batman), Wade Wilson (Deadpool), Oliver Queen (Green Arrow) and Todoroki Dabi (My Hero Academia)<br>
 </li>
 <li><span class="text-uppercase pr-3 font-weight-bold" style="color:#DC143C;letter-spacing:1px;">VOICE CLAIM</span> &#09;&#09;
-    [Oliver Jackson-Cohen](https://m.youtube.com/watch?v=m81VbwYK80Q)<br>
+    <a href="https://m.youtube.com/watch?v=m81VbwYK80Q">Oliver Jackson-Cohen</a><br>
 </li>
 <li><span class="text-uppercase pr-3 font-weight-bold" style="color:#DC143C;letter-spacing:1px;">THEME SONG</span> &#09;&#09;
     TBA<br>
