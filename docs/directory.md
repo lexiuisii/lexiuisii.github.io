@@ -4,7 +4,8 @@ sidebar:
     nav: sidebar-universes
 ---
 
-Utilize the sidebars to navigate OCs and their universes!
+# Universes
+Utilize the sidebars to navigate OCs and their profiles!
 {: .notice--info}
 
 **Of Blood and Ichor**
