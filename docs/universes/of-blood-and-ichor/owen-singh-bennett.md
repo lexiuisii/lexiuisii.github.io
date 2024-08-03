@@ -99,9 +99,3 @@ trivia
 <div class="row" style="background-color:#141414; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;">
     <div style="text-align: right; font-size: 16px"><a href="https://toyhou.se/11320894.-f2u-unity-v2"><i class="fa-solid fa-barcode"></i></a></div>
 </div>
-
-<figure class="third">
-	<img src="https://source.unsplash.com/a-close-up-of-a-bird-BGrAgd4IAxE.png">
-	<img src="https://unsplash.com/photos/grayscale-photo-of-rocky-mountain-OYlhih1s830.png">
-	<img src="https://unsplash.com/photos/a-close-up-of-a-chain-on-a-table-baEhchJOONw.png">
-</figure>
