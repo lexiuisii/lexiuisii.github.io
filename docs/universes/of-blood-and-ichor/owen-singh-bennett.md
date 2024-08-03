@@ -1,15 +1,14 @@
 ---
 gallery:
   - url: https://unsplash.com/photos/a-close-up-of-a-bird-BGrAgd4IAxE
-    image_path: https://unsplash.com/photos/a-close-up-of-a-bird-BGrAgd4IAxE.avif
+    image_path: https://images.unsplash.com/photo-1655955236657-8439f04648b7?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif
     alt: "Reticulated Python"
   - url: https://unsplash.com/photos/grayscale-photo-of-rocky-mountain-OYlhih1s830
     image_path: https://images.unsplash.com/photo-1599389931990-ffb2373161b5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif
     alt: "Rocky Cliff Surface"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+  - url: https://unsplash.com/photos/a-close-up-of-a-chain-on-a-table-baEhchJOONw
+    image_path: https://images.unsplash.com/photo-1649375640804-058ae9ae8f5e?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif
+    alt: "Close Up of Chains"
 ---
 
 > **STC Evaluation Report**
