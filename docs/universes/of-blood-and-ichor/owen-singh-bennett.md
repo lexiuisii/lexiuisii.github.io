@@ -76,19 +76,20 @@ backstory
 <small>
 
 <span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">RELATIONS</span> &#09;&#09;
-    <ul><li>William Edgar Bennett, Father. British. Businessman.</li>
-    <li>Eir Larsen, Partner ( <a href="https://toyhou.se/25008612.eir-larsen" style="color:#DC143C"><i class="fa-solid fa-heart"></i></a> ). Norwegian. Military Doctor.</li>
+    <ul>
+        <li>William Edgar Bennett, Father. British. Businessman.</li>
+        <li>Eir Larsen, Partner ( <a href="https://toyhou.se/25008612.eir-larsen" style="color:#DC143C"><i class="fa-solid fa-heart"></i></a> ). Norwegian. Military Doctor.</li>
     </ul>
 
 <p><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">CONTENT WARNING </span>Violence, Torture, Human Experimentation, and Implied Deaths</p>
 
 <ul>
-<li>Born in London, England. Owen's parents divorced when he was just a young child, losing his mother and forced in his father's impassive control. Everything he did was dictated by his father, whether it's school, friends, activities or hobbies. Owen never managed them as well as expected, leaving him as a disappointment in the eyes of his father.</li>
-<li>As the control got tighter, Owen started to rebel. Using his father's influence and wealth to cause trouble, becoming an infamous flirt and bringing shame to his father's name. However, his father merely resolved everything without a blink of an eye. Money was power, and he has a lot of it. </li>
-<li>Frustrated, Owen on impulse drafted himself into the military at an attempt to get away from his father for once. He thrived in the environment despite the strict regime and rules, happy for once to not be under his father's demands. Soon, he proved himself a good enough soldier to be drafted into a special task force.</li>
-<li>Workings of the military tend to be highly classified, and Owen was about to learn why. He had agreed to the experimental drugs to join the special task force, and unknowingly agreed to their experimentations. He had been infused with Aether, turning him into an Amalgam and making his body incredibly resistant with an equally amazing regenerative factor.</li>
-<li>However, the scientists weren't satisfied. Owen was constantly subjected to new forms of harm in order to test his capabilities. He was chained, drugged and injured in the name of science to uncover the secrets of Aether. Owen was treated like an attack dog, sent out on hunts with little to no regards for his safety. When his Amalgam aggression surfaced, he would just be chained and shocked until he became passive.</li>
-<li>It was torturous, and Owen would purposely go out of his way to make life torturous for those around him too. Hurting handlers and even fellow soldiers just to take his anger out for the inhumane treatment, they knew everything but none of them helped. That was until, Owen met a certain doctor did everything they could to make life better for him. Becoming his trusted partner on the battlefield that he could count on.</li>
+    <li>Born in London, England. Owen's parents divorced when he was just a young child, losing his mother and forced in his father's impassive control. Everything he did was dictated by his father, whether it's school, friends, activities or hobbies. Owen never managed them as well as expected, leaving him as a disappointment in the eyes of his father.</li>
+    <li>As the control got tighter, Owen started to rebel. Using his father's influence and wealth to cause trouble, becoming an infamous flirt and bringing shame to his father's name. However, his father merely resolved everything without a blink of an eye. Money was power, and he has a lot of it. </li>
+    <li>Frustrated, Owen on impulse drafted himself into the military at an attempt to get away from his father for once. He thrived in the environment despite the strict regime and rules, happy for once to not be under his father's demands. Soon, he proved himself a good enough soldier to be drafted into a special task force.</li>
+    <li>Workings of the military tend to be highly classified, and Owen was about to learn why. He had agreed to the experimental drugs to join the special task force, and unknowingly agreed to their experimentations. He had been infused with Aether, turning him into an Amalgam and making his body incredibly resistant with an equally amazing regenerative factor.</li>
+    <li>However, the scientists weren't satisfied. Owen was constantly subjected to new forms of harm in order to test his capabilities. He was chained, drugged and injured in the name of science to uncover the secrets of Aether. Owen was treated like an attack dog, sent out on hunts with little to no regards for his safety. When his Amalgam aggression surfaced, he would just be chained and shocked until he became passive.</li>
+    <li>It was torturous, and Owen would purposely go out of his way to make life torturous for those around him too. Hurting handlers and even fellow soldiers just to take his anger out for the inhumane treatment, they knew everything but none of them helped. That was until, Owen met a certain doctor did everything they could to make life better for him. Becoming his trusted partner on the battlefield that he could count on.</li>
 </ul>
 </small>
 
@@ -105,7 +106,8 @@ trivia
 
 <small>
 <span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">INSPIRATION</span> &#09;&#09;
-    <ul><li>Jason Todd (Batman)</li>
+    <ul>
+        <li>Jason Todd (Batman)</li>
         <li>Wade Wilson (Deadpool)</li>
         <li>Oliver Queen (Green Arrow)</li>
         <li>Todoroki Dabi (My Hero Academia)</li>
@@ -117,11 +119,12 @@ trivia
     TBA<br>
 <span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">MBTI TYPE</span> &#09;&#09;
     ESFP (The Entertainer)<br>
+
 <ul>
-<li>Loves sweets, he enjoys any sweet treat and his form of love language is sharing or buying treats for others.</li>
-<li>Also a big fan of cooking, London's food sucks and he practiced cooking curries and cuisines to survive.</li>
-<li>He can play both the piano and violin, but he's very rusty and would probably play the wrong tunes half the time.</li>
-<li>Loved Pokémon as a kid, didn't get much chance to play it so he's making up for lost time now. He's not a very good strategy player, just enjoys collecting cool Pokémons.</li>
+    <li>Loves sweets, he enjoys any sweet treat and his form of love language is sharing or buying treats for others.</li>
+    <li>Also a big fan of cooking, London's food sucks and he practiced cooking curries and cuisines to survive.</li>
+    <li>He can play both the piano and violin, but he's very rusty and would probably play the wrong tunes half the time.</li>
+    <li>Loved Pokémon as a kid, didn't get much chance to play it so he's making up for lost time now. He's not a very good strategy player, just enjoys collecting cool Pokémons.</li>
 </ul>
 </small>
 
