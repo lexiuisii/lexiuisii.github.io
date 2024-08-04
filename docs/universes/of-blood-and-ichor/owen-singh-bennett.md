@@ -75,9 +75,8 @@ backstory
 
 <small>
 
-<div style="background-color:Tomato; padding:10px; margins:10px"><strong>CW:</strong>Violence, Torture, Human Experimentation, and Implied Deaths
-</div> 
-    
+<a class="btn--success"><strong>CW: </strong>Violence, Torture, Human Experimentation, and Implied Deaths</a>
+
 <ul>
 <li>TO BE ADDED</li>
 <li>TO BE ADDED</li>
