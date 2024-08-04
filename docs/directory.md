@@ -1,4 +1,5 @@
 ---
+title: LORE
 layout: single
 sidebar:
     nav: sidebar-universes
