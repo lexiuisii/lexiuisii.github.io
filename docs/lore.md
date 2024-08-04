@@ -1,5 +1,5 @@
 ---
-title: LORE
+title: Lore
 ---
 
 <br>
