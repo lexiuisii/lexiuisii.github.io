@@ -75,12 +75,9 @@ backstory
 
 <small>
 
-<ul>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">RELATIONS</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">RELATIONS</span> &#09;&#09;
     <ul><li>William Edgar Bennett, Father. British. Businessman.</li>
     </ul>
-</li>
-</ul>
 
 <p><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">CONTENT WARNING </span>Violence, Torture, Human Experimentation, and Implied Deaths</p>
 
