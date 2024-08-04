@@ -1,5 +1,5 @@
 ---
-title: DIRECTORY
+title: Directory
 layout: single
 sidebar:
     nav: sidebar-universes
