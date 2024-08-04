@@ -8,6 +8,22 @@ title: Owen Singh Bennett
 >- Status: `Confirmed Amalgam`
 {: .notice--danger}
 
+<style> 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+</style>
+
 <!---------
 header names
 ----------->
@@ -159,6 +175,6 @@ moodboards
     <img src="https://images.unsplash.com/photo-1599389931990-ffb2373161b5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif" style="width:100%">
   </div>
   <div class="column">
-    <img src="[img_mountains.jpg](https://images.unsplash.com/photo-1649375640804-058ae9ae8f5e?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif)" style="width:100%">
+    <img src="https://images.unsplash.com/photo-1649375640804-058ae9ae8f5e?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif" style="width:100%">
   </div>
 </div> 
