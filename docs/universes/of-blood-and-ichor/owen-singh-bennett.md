@@ -67,7 +67,7 @@ personality
 <p>In his own time, Owen may describe himself as <strong>competitive</strong>, whether at the training room or at some silly games, he hardly even likes to lose. He isn't exactly the sharpest tool in the shed, and while Owen may become <strong>self-conscious</strong>, he hardly likes to admit it. In fact, Owen may even react with <strong>aggression</strong> at the perceived mockery. Only few would actually have the chance of seeing Owen when he's truly relaxed, he isn't exactly very <strong>trusting</strong> of others.
 </p>
 </small>
-<br>
+
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
 
 <!---------
@@ -78,7 +78,6 @@ backstory
 </h3>
 
 <small>
-
 <span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">RELATIONS</span> &#09;&#09;
     <ul>
         <li>William Edgar Bennett, Father. British. Businessman.</li>
@@ -96,7 +95,7 @@ backstory
     <li>It was torturous, and Owen would purposely go out of his way to make life torturous for those around him too. Hurting handlers and even fellow soldiers just to take his anger out for the inhumane treatment, they knew everything but none of them helped. That was until, Owen met a certain doctor did everything they could to make life better for him. Becoming his trusted partner on the battlefield that he could count on.</li>
 </ul>
 </small>
-<br>
+
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
 
 
