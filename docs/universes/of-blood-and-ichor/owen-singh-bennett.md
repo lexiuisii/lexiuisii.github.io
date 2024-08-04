@@ -77,6 +77,7 @@ backstory
 
 <span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">RELATIONS</span> &#09;&#09;
     <ul><li>William Edgar Bennett, Father. British. Businessman.</li>
+    <li>Eir Larsen, Partner <a href="https://toyhou.se/25008612.eir-larsen" style="color:#DC143C"><i class="fa-solid fa-heart"></i></a>. Norwegian. Military Doctor.</li>
     </ul>
 
 <p><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">CONTENT WARNING </span>Violence, Torture, Human Experimentation, and Implied Deaths</p>
