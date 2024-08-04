@@ -73,6 +73,9 @@ backstory
     <span style="color:#DC143C;">B</span>ackstory
 </h3>
 
+**CW:** Violence, Torture, Human Experimentation, and Implied Deaths
+{: .notice--danger}
+
 <small>
 <ul>
 <li>TO BE ADDED</li>
