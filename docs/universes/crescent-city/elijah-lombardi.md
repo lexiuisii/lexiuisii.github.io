@@ -75,7 +75,7 @@ backstory
 
 <small>
 
-<p><span class="font-weight-bold" style="color:#50C878;letter-spacing:1px; text-transform:uppercase">CONTENT WARNING </span>Child Neglect, Violence, Criminal Activity and Implied Fire-Caused Injuries</p>
+<p><span class="font-weight-bold" style="color:#50C878;letter-spacing:1px; text-transform:uppercase">CONTENT WARNING </span>Child Abuse, Torture, Criminal Activity and Violence</p>
 
 <ul>
     <li>An orphan surviving in the streets of Sicily, Elijah was forced to learn how to use their magic from a young age to protect themselves in the crime-filled city. Unfortunately for them, their unique use of magic and symbolism for their dual eye colors caught the eye of a certain mafia boss in Sicily.</li>
