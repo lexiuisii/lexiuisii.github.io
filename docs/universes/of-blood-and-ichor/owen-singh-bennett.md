@@ -23,28 +23,28 @@ header names
 profile
 ----------->
 
-<h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
+<h3 class="font-weight-bold" style="letter-spacing:3px; text-transform:uppercase">
     <span style="color:#DC143C;">P</span>rofile
 </h3>
 
 <small>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">NAME</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">NAME</span> &#09;&#09;
     Owen Singh Bennett<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">ALIASES</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">ALIASES</span> &#09;&#09;
     Agent IRA, Marshall Clayton, Ezra Hart<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">GENDER</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">GENDER</span> &#09;&#09;
     Cisgender Male (He/Him)<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">AGE</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">AGE</span> &#09;&#09;
     29 Years<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">BIRTHDAY</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">BIRTHDAY</span> &#09;&#09;
     July 16th<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">HEIGHT</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">HEIGHT</span> &#09;&#09;
     6'2" ft (188 cm)<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">WEIGHT</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">WEIGHT</span> &#09;&#09;
     198 lbs (90 kg)<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">ETHNICITY</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">ETHNICITY</span> &#09;&#09;
     British/Sikh<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">OCCUPATION</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">OCCUPATION</span> &#09;&#09;
     Soldier<br>
 </small>
 
@@ -53,7 +53,7 @@ profile
 <!---------
 personality
 ----------->
-<h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
+<h3 class="font-weight-bold" style="letter-spacing:3px; text-transform:uppercase">
     <span style="color:#DC143C;">P</span>ersonality
 </h3>
 
@@ -73,19 +73,19 @@ personality
 <!---------
 backstory
 ----------->
-<h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;max-width:80px">
+<h3 class="font-weight-bold" style="letter-spacing:3px;max-width:80px; text-transform:uppercase">
     <span style="color:#DC143C;">B</span>ackstory
 </h3>
 
 <small>
 
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">RELATIONS</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">RELATIONS</span> &#09;&#09;
     <ul>
         <li>William Edgar Bennett, Father. British. Businessman.</li>
         <li>Eir Larsen, Partner ( <a href="https://toyhou.se/25008612.eir-larsen" style="color:#DC143C"><i class="fa-solid fa-heart"></i></a> ). Norwegian. Military Doctor.</li>
     </ul>
 
-<p><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">CONTENT WARNING </span>Violence, Torture, Human Experimentation, and Implied Deaths</p>
+<p><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">CONTENT WARNING </span>Violence, Torture, Human Experimentation, and Implied Deaths</p>
 
 <ul>
     <li>Born in London, England. Owen's parents divorced when he was just a young child, losing his mother and forced in his father's impassive control. Everything he did was dictated by his father, whether it's school, friends, activities or hobbies. Owen never managed them as well as expected, leaving him as a disappointment in the eyes of his father.</li>
@@ -104,12 +104,12 @@ backstory
 trivia
 ----------->
 
-<h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
+<h3 class="font-weight-bold" style="letter-spacing:3px; text-transform:uppercase">
     <span style="color:#DC143C;">T</span>rivia
 </h3>
 
 <small>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">INSPIRATION</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">INSPIRATION</span> &#09;&#09;
     <ul>
         <li>Jason Todd (Batman)</li>
         <li>Wade Wilson (Deadpool)</li>
@@ -117,11 +117,11 @@ trivia
         <li>Todoroki Dabi (My Hero Academia)</li>
         <li>Markiplier (YouTube)</li>
     </ul>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">VOICE CLAIM</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">VOICE CLAIM</span> &#09;&#09;
     <a href="https://m.youtube.com/watch?v=m81VbwYK80Q">Oliver Jackson-Cohen</a><br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">THEME SONG</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">THEME SONG</span> &#09;&#09;
     TBA<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">MBTI TYPE</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">MBTI TYPE</span> &#09;&#09;
     ESFP (The Entertainer)<br>
 
 <ul>
