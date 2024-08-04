@@ -1,3 +1,7 @@
+---
+title: LORE
+---
+
 <br>
 # Of Blood and Ichor
 ***
