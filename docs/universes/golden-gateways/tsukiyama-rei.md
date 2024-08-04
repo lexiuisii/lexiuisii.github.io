@@ -75,7 +75,7 @@ backstory
 
 <small>
 
-<p><span class="font-weight-bold" style="color:#F88379;letter-spacing:1px; text-transform:uppercase">CONTENT WARNING </span>Criminal Mentions of Violence</p>
+<p><span class="font-weight-bold" style="color:#F88379;letter-spacing:1px; text-transform:uppercase">CONTENT WARNING </span>Mentions of Violence</p>
 
 <ul>
     <li>They started out the same with every other Kitsune, a mundane fox who slowly grew wise and gained intelligence. Intelligence that would later be used to garner spiritual and magical energy, and a brimming curiosity to learn about the vast world. Rei lived many lives, once as an onmyouji, another as a daimyo’s samurai and even as a humble kannushi. Each they’ve enjoyed to the fullest, filled with pride and even arrogance before their slumber to cultivate more magical energy.</li>
