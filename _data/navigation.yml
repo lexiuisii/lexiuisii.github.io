@@ -15,3 +15,7 @@ sidebar-universes:
     children:
       - title: "Lín Yǔxiá"
         url: /docs/universes/golden-gateways/lin-yuxia
+  - title: "Crescent City"
+    children:
+      - title: "Lín Yǔxiá"
+        url: /docs/universes/crescent-city/elijah-lombardi
