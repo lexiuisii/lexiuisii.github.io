@@ -75,7 +75,7 @@ backstory
 
 <small>
 
-<p><strong>CW: </strong>Violence, Torture, Human Experimentation, and Implied Deaths</p>
+<p><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; padding-right:3px">CW: </span>Violence, Torture, Human Experimentation, and Implied Deaths</p>
 
 <ul>
 <li>TO BE ADDED</li>
