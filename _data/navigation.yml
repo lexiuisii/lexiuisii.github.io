@@ -11,3 +11,7 @@ sidebar-universes:
         url: /docs/universes/of-blood-and-ichor/diane-argyros
       - title: "Owen Singh Bennett"
         url: /docs/universes/of-blood-and-ichor/owen-singh-bennett
+  - title: "Golden Gateways"
+    children:
+      - title: "Lín Yǔxiá"
+      url: /docs/universes/golden-gateways/lin-yuxia
