@@ -73,10 +73,11 @@ backstory
     <span style="color:#DC143C;">B</span>ackstory
 </h3>
 
-**CW:** Violence, Torture, Human Experimentation, and Implied Deaths
-{: .notice--danger}
-
 <small>
+
+<button type="button" style="background-color:LightCoral"><strong>CW:</strong>Violence, Torture, Human Experimentation, and Implied Deaths
+</button> 
+    
 <ul>
 <li>TO BE ADDED</li>
 <li>TO BE ADDED</li>
