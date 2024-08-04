@@ -141,11 +141,11 @@ moodboards
 ----------->
 
 <div class="col-4 p-1">
-        <div class="card border-0 rounded-0" style="height:85px; background-position:center; background-image:url('https://cdn.discordapp.com/attachments/498852129893646337/759954935566696478/photo-1506202687253-52e1b29d3527.png');"></div>
+        <div class="card border-0 rounded-0" style="height:85px; background-position:center; background-image:url('https://unsplash.com/photos/a-close-up-of-a-bird-BGrAgd4IAxE');"></div>
       </div>
      
 <div class="col-4 p-1">
-        <div class="card border-0 rounded-0" style="height:85px; background-position:center; background-image:url('https://cdn.discordapp.com/attachments/498852129893646337/760157326224261212/photo-1441974231531-c6227db76b6e.png');"></div>
+        <div class="card border-0 rounded-0" style="height:85px; background-position:center; background-image:url('https://images.unsplash.com/photo-1655955236657-8439f04648b7?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif');"></div>
       </div>
 
 <div class="col-4 p-1">
