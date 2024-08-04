@@ -15,6 +15,10 @@ sidebar-universes:
     children:
       - title: "Lín Yǔxiá"
         url: /docs/universes/golden-gateways/lin-yuxia
+  - title: "Elysian Vision"
+    children:
+      - title: "Wynona Silas"
+        url: /docs/universes/elysian-vision/wynona-silas
   - title: "Crescent City"
     children:
       - title: "Elijah Lombardi"
