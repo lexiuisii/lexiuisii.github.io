@@ -60,8 +60,9 @@ personality
 <p>In truth, when it comes to his responsibilities, Owen takes things a lot more seriously than other peceive him to. He can be extremely <strong>efficient</strong> in tasks he was assigned to accomplished, usually the physical type but can easily <strong>adapt</strong> his methods to suit other needs. His words may be <strong>callous</strong> alongside being a little too <strong>foreful</strong>, but Owen's first instict tends to be to <strong>protect</strong> and his <strong>steadfast</strong> loyalty to those on his side are unwavering.
 </p>
 
-<p>In his own time, Owen may describe himself as <strong>competitive</strong>, whether at the training room or at some silly games, he hardly even likes to lose. He isn't exactly the sharpest tool in the shed, and while Owen may become <strong>self-conscious</strong>, he hardly likes to admit it. In fact, Owen may even react with <strong>aggression</strong> at the perceived mockery. Only few would actually have the chance of seeing Owen when he's truly relaxed, he isn't exacttly very <strong>trusting</strong> of others.
+<p>In his own time, Owen may describe himself as <strong>competitive</strong>, whether at the training room or at some silly games, he hardly even likes to lose. He isn't exactly the sharpest tool in the shed, and while Owen may become <strong>self-conscious</strong>, he hardly likes to admit it. In fact, Owen may even react with <strong>aggression</strong> at the perceived mockery. Only few would actually have the chance of seeing Owen when he's truly relaxed, he isn't exactly very <strong>trusting</strong> of others.
 </p>
+</small>
 
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
 
