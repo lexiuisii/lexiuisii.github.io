@@ -136,7 +136,7 @@ trivia
 <span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px; text-transform:uppercase">Secondary</span><br> 
 <ul>
     <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">Fragment of Darkness</span>  
-        Coating himself in dark matter, it almost looks like Nona is wearing armor due to dark matter’s incompatibility with light. This “armor” is more like a layer of dark matter than repels attacks with its gravitation redirection. With this ability, physical attacks can be blocked/redirected with a successful Endurance roll check. Lasts for 3 rounds, twice per RP..</li>
+        Coating himself in dark matter, it almost looks like Nona is wearing armor due to dark matter’s incompatibility with light. This “armor” is more like a layer of dark matter than repels attacks with its gravitation redirection. With this ability, physical attacks can be blocked/redirected with a successful Endurance roll check. Lasts for 3 rounds, twice per RP.</li>
 </ul>
 </small>
 
