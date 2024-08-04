@@ -75,8 +75,8 @@ backstory
 
 <small>
 
-<button type="button" style="background-color:LightCoral"><strong>CW:</strong>Violence, Torture, Human Experimentation, and Implied Deaths
-</button> 
+<div style="background-color:LightCoral; padding:30px"><strong>CW:</strong>Violence, Torture, Human Experimentation, and Implied Deaths
+</div> 
     
 <ul>
 <li>TO BE ADDED</li>
