@@ -24,23 +24,23 @@ profile
 </h3>
 
 <small>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">NAME</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">NAME</span> &#09;&#09;
     Owen Singh Bennett<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">ALIASES</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">ALIASES</span> &#09;&#09;
     Agent IRA, Marshall Clayton, Ezra Hart<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">GENDER</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">GENDER</span> &#09;&#09;
     Cisgender Male (He/Him)<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">AGE</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">AGE</span> &#09;&#09;
     29 Years<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">BIRTHDAY</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">BIRTHDAY</span> &#09;&#09;
     July 16th<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">HEIGHT</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">HEIGHT</span> &#09;&#09;
     6'2" ft (188 cm)<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">WEIGHT</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">WEIGHT</span> &#09;&#09;
     198 lbs (90 kg)<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">ETHNICITY</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">ETHNICITY</span> &#09;&#09;
     British/Sikh<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">OCCUPATION</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">OCCUPATION</span> &#09;&#09;
     Soldier<br>
 </small>
 
@@ -75,7 +75,7 @@ backstory
 
 <small>
 
-<p><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">CONTENT WARNING: </span>Violence, Torture, Human Experimentation, and Implied Deaths</p>
+<p><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">CONTENT WARNING: </span>Violence, Torture, Human Experimentation, and Implied Deaths</p>
 
 <ul>
 <li>TO BE ADDED</li>
@@ -97,26 +97,26 @@ trivia
 
 <small>
 <ul>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">INSPIRATION</span> &#09;&#09;
+<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">INSPIRATION</span> &#09;&#09;
     <ul><li>Jason Todd (Batman)</li>
         <li>Wade Wilson (Deadpool)</li>
         <li>Oliver Queen (Green Arrow)</li>
         <li>Todoroki Dabi (My Hero Academia)</li>
     </ul>
 </li>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">VOICE CLAIM</span> &#09;&#09;
+<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">VOICE CLAIM</span> &#09;&#09;
     <a href="https://m.youtube.com/watch?v=m81VbwYK80Q">Oliver Jackson-Cohen</a>
 </li>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">THEME SONG</span> &#09;&#09;
+<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">THEME SONG</span> &#09;&#09;
     TBA
 </li>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">MBTI TYPE</span> &#09;&#09;
+<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">MBTI TYPE</span> &#09;&#09;
     ESFP - The Entertainer
 </li>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">LIKES</span> &#09;&#09;
+<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">LIKES</span> &#09;&#09;
     Pastries, Winning at Competitions, Cooking, Showing Affection, Music
 </li>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; margins-right:3px">DISLIKES</span> &#09;&#09;
+<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">DISLIKES</span> &#09;&#09;
     The Cold, Being Restricted, Strict Rules, Silence, Loneliness
 </li>
 <li>Loves sweets, he enjoys any sweet treat and his form of love language is sharing or buying treats for others.</li>
