@@ -8,31 +8,14 @@ title: Owen Singh Bennett
 >- Status: `Confirmed Amalgam`
 {: .notice--danger}
 
-<style> 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  height: 50%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-} 
-</style>
-
 <!---------
 header names
 ----------->
 
 <div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 25px">
-    <h1 style="color:#DC143C">OWEN SINGH BENNETT</h1>
-    <small>"The Unyielding Soldier"</small>
-</div>
+    <h1 style="color:#DC143C">OWEN SINGH BENNETT <div style="text-align: right"><i class="fa-solid fa-shield-halved"></i></div></h1>
+        <small>"The Unyielding Soldier"</small>
+</div> 
 <div style="background-color:#DC143C;padding:3px;"></div>
 <div class="row" style="background-color: #232121; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
 
@@ -152,20 +135,3 @@ trivia
 <div class="row" style="background-color:#141414; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;">
     <div style="text-align: right; font-size: 16px"><a href="https://toyhou.se/11320894.-f2u-unity-v2"><i class="fa-solid fa-barcode"></i></a></div>
 </div>
-
-<!---------
-moodboards
------------>
-<br>
-
- <div class="row">
-  <div class="column">
-    <img src="https://images.unsplash.com/photo-1655955236657-8439f04648b7?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://images.unsplash.com/photo-1599389931990-ffb2373161b5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://images.unsplash.com/photo-1649375640804-058ae9ae8f5e?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif" style="width:100%">
-  </div>
-</div> 
