@@ -135,3 +135,19 @@ trivia
 <div class="row" style="background-color:#141414; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;">
     <div style="text-align: right; font-size: 16px"><a href="https://toyhou.se/11320894.-f2u-unity-v2"><i class="fa-solid fa-barcode"></i></a></div>
 </div>
+
+<!---------
+moodboards
+----------->
+
+<div class="col-4 p-1">
+        <div class="card border-0 rounded-0" style="height:85px; background-position:center; background-image:url('https://cdn.discordapp.com/attachments/498852129893646337/759954935566696478/photo-1506202687253-52e1b29d3527.png');"></div>
+      </div>
+     
+<div class="col-4 p-1">
+        <div class="card border-0 rounded-0" style="height:85px; background-position:center; background-image:url('https://cdn.discordapp.com/attachments/498852129893646337/760157326224261212/photo-1441974231531-c6227db76b6e.png');"></div>
+      </div>
+
+<div class="col-4 p-1">
+        <div class="card border-0 rounded-0" style="height:85px; background-position:center; background-image:url('https://cdn.discordapp.com/attachments/498852129893646337/759953161225764884/photo-1523712999610-f77fbcfc3843.png');"></div>
+      </div>
