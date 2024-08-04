@@ -142,7 +142,7 @@ trivia
 <span class="font-weight-bold" style="color:#50C878;letter-spacing:1px; text-transform:uppercase">PRIMARY</span><br> 
 <ul>
     <li><span class="font-weight-bold" style="color:#50C878;letter-spacing:1px;">Ars Magica</span>  
-        OControlling magic itself using Prime and used in tandem with other spheres. They are able to control, redirect, dispel magic or even use pure magical essence as a weapon. However, when dispelling magic or even Paradoxes, if the target’s Resolve roll is higher, damage is reflected on Elijah instead.</li>
+        Controlling magic itself using Prime and used in tandem with other spheres. They are able to control, redirect, dispel magic or even use pure magical essence as a weapon. However, when dispelling magic or even Paradoxes, if the target’s Resolve roll is higher, damage is reflected on Elijah instead.</li>
 </ul>
 
 <span class="font-weight-bold" style="color:#50C878;letter-spacing:1px; text-transform:uppercase">SUPPORITVE</span><br> 
