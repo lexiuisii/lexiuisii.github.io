@@ -1,7 +1,7 @@
 main:
-  - title: "DIRECTORY"
+  - title: "Directory"
     url: https://lexiuisii.github.io/docs/directory
-  - title: "LORE"
+  - title: "Lore"
     url: https://lexiuisii.github.io/docs/lore
 
 sidebar-universes:
