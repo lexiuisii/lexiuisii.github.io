@@ -108,6 +108,7 @@ trivia
         <li>Wade Wilson (Deadpool)</li>
         <li>Oliver Queen (Green Arrow)</li>
         <li>Todoroki Dabi (My Hero Academia)</li>
+        <li>Markiplier (YouTube)</li>
     </ul>
 <span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">VOICE CLAIM</span> &#09;&#09;
     <a href="https://m.youtube.com/watch?v=m81VbwYK80Q">Oliver Jackson-Cohen</a><br>
