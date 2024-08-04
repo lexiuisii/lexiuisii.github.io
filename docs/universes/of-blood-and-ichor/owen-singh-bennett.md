@@ -54,7 +54,7 @@ personality
 </h3>
 
 <small>
-<p>At a glance, many would deem Owen nothing more than a <strong>suave</strong> flirt, as insincere as his words are sweet. His gestures and words may be <strong>romantic</strong>, but Owen is hardly one to be tied down so easily, especially with his job. His <strong>laid-back</strong> attitude comes as a oddity among his coworkers, who tend to take their job a lot more seriously than the <strong>fun-loving</strong> fool. In fact, those who work with may even describe Owen as <strong>uncooperative</strong> and <strong>disobedient</strong>, prefering his own defiant manner of getting thinga done.
+<p>At a glance, many would deem Owen nothing more than a <strong>suave</strong> flirt, as insincere as his words are sweet. His gestures and words may be <strong>romantic</strong>, but Owen is hardly one to be tied down so easily, especially with his job. His <strong>laid-back</strong> attitude comes as a oddity among his coworkers, who tend to take their job a lot more seriously than the <strong>fun-loving</strong> fool. In fact, those who work with may even describe Owen as <strong>uncooperative</strong> and <strong>disobedient</strong>, prefering his own defiant manner of getting things done.
 </p>
 
 <p>In truth, when it comes to his responsibilities, Owen takes things a lot more seriously than other peceive him to. He can be extremely <strong>efficient</strong> in tasks he was assigned to accomplished, usually the physical type but can easily <strong>adapt</strong> his methods to suit other needs. His words may be <strong>callous</strong> alongside being a little too <strong>foreful</strong>, but Owen's first instict tends to be to <strong>protect</strong> and his <strong>steadfast</strong> loyalty to those on his side are unwavering.
@@ -74,9 +74,11 @@ backstory
 </h3>
 
 <small>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat vestibulum fermentum. Nullam aliquet ipsum mauris, quis tincidunt neque porttitor vitae. Nam condimentum faucibus ornare. Nunc euismod vitae erat id iaculis. Fusce ac fringilla velit, at eleifend augue. Quisque pellentesque tempor tellus. Aliquam id pulvinar risus. Nunc varius ante ac nisl lacinia suscipit. In quis risus quis sapien sagittis pulvinar. Donec at viverra sapien. Nam consectetur quis augue eu tincidunt.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat vestibulum fermentum. Nullam aliquet ipsum mauris, quis tincidunt neque porttitor vitae. Nam condimentum faucibus ornare. Nunc euismod vitae erat id iaculis. Fusce ac fringilla velit, at eleifend augue. Quisque pellentesque tempor tellus. Aliquam id pulvinar risus. Nunc varius ante ac nisl lacinia suscipit. In quis risus quis sapien sagittis pulvinar. Donec at viverra sapien. Nam consectetur quis augue eu tincidunt.</p>
+<ul>
+<li>TO BE ADDED</li>
+<li>TO BE ADDED</li>
+<li>TO BE ADDED</li>
+</ul>
 </small>
 
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
