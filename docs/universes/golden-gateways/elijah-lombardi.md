@@ -75,7 +75,7 @@ backstory
 
 <small>
 
-<p><span class="font-weight-bold" style="color:#50C878;letter-spacing:1px; text-transform:uppercase">CONTENT WARNING </span>Child Neglect, Violence, Criminal Activity and Implied Fire-Caused Injuries</p>
+<p><span class="font-weight-bold" style="color:#50C878;letter-spacing:1px; text-transform:uppercase">CONTENT WARNING </span>Criminal Activity, Violence, Mentions of War and Implied Deaths</p>
 
 <ul>
     <li>After their escape from the Mafia and work alongside the Midnight Association, Elijah has learned many lessons throughout his time in various work trips across America. Even learning under an ex-union archmage to help Elijah master his own spheres of magic, he was also suggested to join the Sons of Ether Tradition to receive protection and recognition for his creations. After the death of his father, Elijah founded LARCAI in hopes of living on Gerard’s dream of helping people when the hunter couldn’t.</li>
