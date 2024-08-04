@@ -63,7 +63,7 @@ personality
     <li>Fiery, Reckless, Short-Sighted, Blunt, Aggressive</li>
 </ul>
 </small>
-<br>
+
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
 
 <!---------
@@ -83,7 +83,7 @@ backstory
     <li>When the fight with her brother occurred, Lin was later reported missing as few witnesses would claim spotting the Tian Gou running away in the dead of night. Two years later, Lin would be called home by its elders and faction leader. Both to lead the crumbling clan and to serve the faction heir, which Lin reluctantly agreed if not for her adoptive brother's safety.</li>
 </ul>
 </small>
-<br>
+
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
 
 
