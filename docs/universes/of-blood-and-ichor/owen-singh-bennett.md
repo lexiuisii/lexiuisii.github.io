@@ -69,7 +69,7 @@ personality
 <!---------
 backstory
 ----------->
-<h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;">
+<h3 class="text-uppercase font-weight-bold" style="letter-spacing:3px;max-width:80px">
     <span style="color:#DC143C;">B</span>ackstory
 </h3>
 
