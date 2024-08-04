@@ -103,29 +103,23 @@ trivia
 </h3>
 
 <small>
-<ul>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">INSPIRATION</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">INSPIRATION</span> &#09;&#09;
     <ul><li>Jason Todd (Batman)</li>
         <li>Wade Wilson (Deadpool)</li>
         <li>Oliver Queen (Green Arrow)</li>
         <li>Todoroki Dabi (My Hero Academia)</li>
     </ul>
-</li>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">VOICE CLAIM</span> &#09;&#09;
-    <a href="https://m.youtube.com/watch?v=m81VbwYK80Q">Oliver Jackson-Cohen</a>
-</li>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">THEME SONG</span> &#09;&#09;
-    TBA
-</li>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">MBTI TYPE</span> &#09;&#09;
-    ESFP - The Entertainer
-</li>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">LIKES</span> &#09;&#09;
-    Pastries, Winning at Competitions, Cooking, Showing Affection, Music
-</li>
-<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">DISLIKES</span> &#09;&#09;
-    The Cold, Being Restricted, Strict Rules, Silence, Loneliness
-</li>
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">VOICE CLAIM</span> &#09;&#09;
+    <a href="https://m.youtube.com/watch?v=m81VbwYK80Q">Oliver Jackson-Cohen</a><br>
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">THEME SONG</span> &#09;&#09;
+    TBA<br>
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">MBTI TYPE</span> &#09;&#09;
+    ESFP (The Entertainer)<br>
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">LIKES</span> &#09;&#09;
+    Pastries, Winning at Competitions, Cooking, Showing Affection, Music<br>
+<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">DISLIKES</span> &#09;&#09;
+    The Cold, Being Restricted, Strict Rules, Silence, Loneliness<br>
+<ul>
 <li>Loves sweets, he enjoys any sweet treat and his form of love language is sharing or buying treats for others.</li>
 <li>Also a big fan of cooking, London's food sucks and he practiced cooking curries and cuisines to survive.</li>
 <li>He can play both the piano and violin, but he's very rusty and would probably play the wrong tunes half the time.</li>
