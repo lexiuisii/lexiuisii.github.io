@@ -101,21 +101,21 @@ trivia
     <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">INT:</span> 
         2</li>
     <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">WIT:</span> 
-        3</li>
+        2</li>
     <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">RES:</span> 
-        4</li>
+        5</li>
     <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">STR:</span> 
-        3</li>
+        1</li>
     <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">DEX:</span> 
         4</li>
     <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">STA:</span> 
-        4</li>
-    <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">CHA:</span> 
-        1</li>
-    <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">PRE:</span> 
-        1</li>
-    <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">COM:</span> 
         3</li>
+    <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">CHA:</span> 
+        2</li>
+    <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">PRE:</span> 
+        3</li>
+    <li><span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px;">COM:</span> 
+        2</li>
 </ul>
 
 <span class="font-weight-bold" style="color:#5A4FCF;letter-spacing:1px; text-transform:uppercase">BOONS</span><br> 
