@@ -63,7 +63,7 @@ personality
     <li>Petty, Selfish, Spiteful, Self Conscious, Careless</li>
 </ul>
 </small>
-<br>
+
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
 
 <!---------
@@ -84,7 +84,7 @@ backstory
     <li>Luckily the chance for escape presented itself before Elijah when he was sent to New York as part of a scout party to determine whether the city was viable for expansion. Away from the physical grasp of Enzo meant Elijah could out power the others and escape, with a little help of some fire and a certain Hunter.Now, they move to New Orleans with the rest of the Association on their quest to protect Sleepers from atrocious Awakeneds like Enzo.</li>
 </ul>
 </small>
-<br>
+
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
 
 
