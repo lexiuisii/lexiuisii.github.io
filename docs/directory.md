@@ -1,5 +1,5 @@
 ---
-title: LORE
+title: DIRECTORY
 layout: single
 sidebar:
     nav: sidebar-universes
