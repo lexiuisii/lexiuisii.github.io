@@ -105,72 +105,36 @@ trivia
 <span class="badge bg-danger">PRE</span> 3 [+1]<br>  
 <span class="badge bg-danger">COM</span> 3 [+1]<br> 
 
-<div class="card border-0 pt-2 pb-0 mt-2 mb-2 p-1">
-<span class="font-weight-bold text-secondary text-uppercase pl-3">Boons</span>    
-                            
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">BOONS</span><br> 
 <ul>
-    <li> <span class="fa-li"> <i class="small fad fa-angle-right"></i></span> <span style="opacity: .95"> Soul of the Night </span> 
-               <div style="font-size:smaller; opacity: .5">
-               She has sharper senses than the average human. Capable of seeing clearly in the dark as a hunter of the night, and is very sensitive to the sounds around her. She’s most likely to hear you before she would see you, whether it be from your footsteps, heartbeat or breathing. 
-                </div></li>
-    <li> <span class="fa-li"> <i class="small fad fa-angle-right" ></i></span> <span style="opacity: .95"> Dark Hound </span>
-                <div style="font-size:smaller; opacity: .5">
-                Taking the form of the canine self, Yuxia can hide among Sleepers and blend herself in with the crowd when needed. Most will only sense that she is a normal hound unless they have supernatural senses to detect an Awakened. 
-                </div></li>
-    <li> <span class="fa-li"> <i class="small fad fa-angle-right" ></i></span> <span style="opacity: .95"> Tracker's Instinct </span>
-                <div style="font-size:smaller; opacity: .5">
-                Scents and magic are seen as magical auras to Yuxia, each with their own appearance that she can smell, see and identify. Each Awakened and magical signature are unique to their user, thus she can easily identify allies from foes even under disguises and to track down the trails. 
-                </div></li></ul></div>
+    <li>Soul of the Night. She has sharper senses than the average human. Capable of seeing clearly in the dark as a hunter of the night, and is very sensitive to the sounds around her. She’s most likely to hear you before she would see you, whether it be from your footsteps, heartbeat or breathing.</li>
+    <li>Dark Hound. Taking the form of the canine self, Yuxia can hide among Sleepers and blend herself in with the crowd when needed. Most will only sense that she is a normal hound unless they have supernatural senses to detect an Awakened.</li>
+    <li>Tracker's Instinct. Scents and magic are seen as magical auras to Yuxia, each with their own appearance that she can smell, see and identify. Each Awakened and magical signature are unique to their user, thus she can easily identify allies from foes even under disguises and to track down the trails.</li>
+</ul>
 
-<div class="card border-0 pt-2 pb-0 mt-2 mb-2 p-1">
-<span class="font-weight-bold text-secondary text-uppercase pl-3">Banes</span>    
-                            
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">BANES</span><br> 
 <ul>
-    <li> <span class="fa-li"> <i class="small fad fa-angle-right" ></i></span> <span style="opacity: .95"> Scare the Shadows </span>
-               <div style="font-size:smaller; opacity: .5">
-               Yuxia is extremely sensitive to loud noises due to her enhanced senses. She rolls with disadvantage on Composure and needs to meet a DC of 15, upon failure she feels extreme need to stay away from the source.
-               </div></li>
-    <li> <span class="fa-li"> <i class="small fad fa-angle-right" ></i></span> <span style="opacity: .95"> Faithful Beast </span>
-                <div style="font-size:smaller; opacity: .5">
-                When a rope-like object is tied around Yuxia's neck, she becomes immobilized for 4 turns and pacified indefinitely until the object is taken off. These objects include necklaces, ties, ribbons and collars.
-                </div></li>
-    <li> <span class="fa-li"> <i class="small fad fa-angle-right" ></i></span> <span style="opacity: .95"> Insatiable Hunger </span>
-                <div style="font-size:smaller; opacity: .5">
-                Yuxia needs magic as a source of sustenance just as much as she needs food and water. She needs to regularly eat magic to stay healthy and as extra flavors. If forcefully starved, Yuxia has disadvantage on all rolls and become physically weakened.
-                </div></li></ul></div>
-                        
-<div class="card border-0 pt-2 pb-0 mt-2 mb-2 p-1">
-<span class="font-weight-bold text-secondary text-uppercase pl-3">Passive</span>    
-                            
+    <li>Scare the Shadows. Yuxia is extremely sensitive to loud noises due to her enhanced senses. She rolls with disadvantage on Composure and needs to meet a DC of 15, upon failure she feels extreme need to stay away from the source. </li>
+    <li>Faithful Beast. When a rope-like object is tied around Yuxia's neck, she becomes immobilized for 4 turns and pacified indefinitely until the object is taken off. These objects include necklaces, ties, ribbons and collars. </li>
+    <li>Insatiable Hunger. Yuxia needs magic as a source of sustenance just as much as she needs food and water. She needs to regularly eat magic to stay healthy and as extra flavors. If forcefully starved, Yuxia has disadvantage on all rolls and become physically weakened. </li>
+</ul>
+
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">PASSIVE</span><br> 
 <ul>
-     <li> <span class="fa-li"> <i class="small fad fa-angle-right" ></i></span> <span style="opacity: .95"> Eclipe's Fangs </span>
-                <div style="font-size:smaller; opacity: .5">
-                Yuxia may take a bite out of someone's soul to devour its magical essence. The target's magic will have d2 of their magical damage/effectiveness reduced. However, if Lin were to receive damage after eating, it will be nullified.
-                 </div></li></ul></div>
-                        
-<div class="card border-0 pt-2 pb-0 mt-2 mb-2 p-1">
-<span class="font-weight-bold text-secondary text-uppercase pl-3">Primary</span>    
-                            
+    <li>Eclipe's Fangs. Yuxia may take a bite out of someone's soul to devour its magical essence. The target's magic will have d2 of their magical damage/effectiveness reduced. However, if Lin were to receive damage after eating, it will be nullified. </li>
+</ul>
+
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">PRIMARY</span><br> 
 <ul>
-     <li> <span class="fa-li"> <i class="small fad fa-angle-right" ></i></span> <span style="opacity: .95"> Sidereal Blaze </span>
-                <div style="font-size:smaller; opacity: .5">
-                Fiery magic that Yuxia controls in various forms. When attacked physically, it releases a 5ft burst of flames to everyone around her including allies dealing d2 damage. With the exception of targets whose bodies are made of non-flammable substances.
-                 </div></li>
-      <li> <span class="fa-li"> <i class="small fad fa-angle-right" ></i></span> <span style="opacity: .95"> Nebula's Maw </span>
-                 <div style="font-size:smaller; opacity: .5">
-                  Yuxia conjures spiritual energy to form a ghostly hound-like jaw that becomes an extension of her, capable of trapping and injuring its targets. Targets must pass a Strength DC of 12 to break out. Yuxia may control whether it hurts its target or not.
-                   </div></li></ul></div>
-                        
-<div class="card border-0 pt-2 pb-0 mt-2 mb-2 p-1">
-<span class="font-weight-bold text-secondary text-uppercase pl-3">Supportive</span>    
-                            
+    <li>Sidereal Blaze. Fiery magic that Yuxia controls in various forms. When attacked physically, it releases a 5ft burst of flames to everyone around her including allies dealing d2 damage. With the exception of targets whose bodies are made of non-flammable substances. </li>
+    <li>Nebula's Maw. Yuxia conjures spiritual energy to form a ghostly hound-like jaw that becomes an extension of her, capable of trapping and injuring its targets. Targets must pass a Strength DC of 12 to break out. Yuxia may control whether it hurts its target or not. </li>
+</ul>
+
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">SUPPORITVE</span><br> 
 <ul>
-     <li> <span class="fa-li"> <i class="small fad fa-angle-right" ></i></span> <span style="opacity: .95"> Guidance of Sirius </span>
-                <div style="font-size:smaller; opacity: .5">
-                Shapeshifting into her werehound form, Yuxia can resist d2 damage from an attack every 2 turns. If the damage is persistent (such as poison or burning), it will continuously be lowered by the same amount and treated as the same attack. 
-                </div></li></ul></div>
-                </div>
-        </div>
+    <li>Guidance of Sirius. Shapeshifting into her werehound form, Yuxia can resist d2 damage from an attack every 2 turns. If the damage is persistent (such as poison or burning), it will continuously be lowered by the same amount and treated as the same attack.
+</li>
+</ul>
 </small>
 
 </div>
