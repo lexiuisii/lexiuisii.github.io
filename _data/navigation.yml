@@ -14,4 +14,4 @@ sidebar-universes:
   - title: "Golden Gateways"
     children:
       - title: "Lín Yǔxiá"
-      url: /docs/universes/golden-gateways/lin-yuxia
+        url: /docs/universes/golden-gateways/lin-yuxia
