@@ -75,12 +75,22 @@ backstory
 
 <small>
 
-<p><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">CONTENT WARNING: </span>Violence, Torture, Human Experimentation, and Implied Deaths</p>
+<ul>
+<li><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">RELATIONS</span> &#09;&#09;
+    <ul><li>William Edgar Bennett, Father. British. Businessman.</li>
+    </ul>
+</li>
+</ul>
+
+<p><span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">CONTENT WARNING </span>Violence, Torture, Human Experimentation, and Implied Deaths</p>
 
 <ul>
-<li>TO BE ADDED</li>
-<li>TO BE ADDED</li>
-<li>TO BE ADDED</li>
+<li>Born in London, England. Owen's parents divorced when he was just a young child, losing his mother and forced in his father's impassive control. Everything he did was dictated by his father, whether it's school, friends, activities or hobbies. Owen never managed them as well as expected, leaving him as a disappointment in the eyes of his father.</li>
+<li>As the control got tighter, Owen started to rebel. Using his father's influence and wealth to cause trouble, becoming an infamous flirt and bringing shame to his father's name. However, his father merely resolved everything without a blink of an eye. Money was power, and he has a lot of it. </li>
+<li>Frustrated, Owen on impulse drafted himself into the military at an attempt to get away from his father for once. He thrived in the environment despite the strict regime and rules, happy for once to not be under his father's demands. Soon, he proved himself a good enough soldier to be drafted into a special task force.</li>
+<li>Workings of the military tend to be highly classified, and Owen was about to learn why. He had agreed to the experimental drugs to join the special task force, and unknowingly agreed to their experimentations. He had been infused with Aether, turning him into an Amalgam and making his body incredibly resistant with an equally amazing regenerative factor.</li>
+<li>However, the scientists weren't satisfied. Owen was constantly subjected to new forms of harm in order to test his capabilities. He was chained, drugged and injured in the name of science to uncover the secrets of Aether. Owen was treated like an attack dog, sent out on hunts with little to no regards for his safety. When his Amalgam aggression surfaced, he would just be chained and shocked until he became passive.</li>
+<li>It was torturous, and Owen would purposely go out of his way to make life torturous for those around him too. Hurting handlers and even fellow soldiers just to take his anger out for the inhumane treatment, they knew everything but none of them helped. That was until, Owen met a certain doctor did everything they could to make life better for him. Becoming his trusted partner on the battlefield that he could count on.</li>
 </ul>
 </small>
 
