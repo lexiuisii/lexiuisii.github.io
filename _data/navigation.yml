@@ -15,6 +15,8 @@ sidebar-universes:
     children:
       - title: "Lín Yǔxiá"
         url: /docs/universes/golden-gateways/lin-yuxia
+      - title: "Elijah Lombardi"
+        url: /docs/universes/golden-gateways/elijah-lombardi
   - title: "Elysian Vision"
     children:
       - title: "Wynona Silas"
