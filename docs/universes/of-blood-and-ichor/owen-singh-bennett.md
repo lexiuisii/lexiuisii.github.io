@@ -1,3 +1,7 @@
+---
+title: Owen Singh Bennett
+---
+
 > **STC Evaluation Report**
 >- Threat Level: `High` (Defiant)
 >- Affiliation: `STC Employee`
