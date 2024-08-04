@@ -24,23 +24,23 @@ profile
 </h3>
 
 <small>
-<span class="text-uppercase pr-3 font-weight-bold" style="color:#008080;letter-spacing:1px;">NAME</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">NAME</span> &#09;&#09;
   Diane Argyros<br>
-<span class="text-uppercase pr-3 font-weight-bold" style="color:#008080;letter-spacing:1px;">ALIASES</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">ALIASES</span> &#09;&#09;
   Dr. Argyros<br>
-<span class="text-uppercase pr-3 font-weight-bold" style="color:#008080;letter-spacing:1px;">GENDER</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">GENDER</span> &#09;&#09;
   Trans Femme (She/They)<br>
-<span class="text-uppercase pr-3 font-weight-bold" style="color:#008080;letter-spacing:1px;">AGE</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">AGE</span> &#09;&#09;
   30 Years<br>
-<span class="text-uppercase pr-3 font-weight-bold" style="color:#008080;letter-spacing:1px;">BIRTHDAY</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">BIRTHDAY</span> &#09;&#09;
   April 13th<br>
-<span class="text-uppercase pr-3 font-weight-bold" style="color:#008080;letter-spacing:1px;">HEIGHT</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">HEIGHT</span> &#09;&#09;
   5'5" ft (166 cm)<br>
-<span class="text-uppercase pr-3 font-weight-bold" style="color:#008080;letter-spacing:1px;">WEIGHT</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">WEIGHT</span> &#09;&#09;
   110 lbs (50 kg)<br>
-<span class="text-uppercase pr-3 font-weight-bold" style="color:#008080;letter-spacing:1px;">ETHNICITY</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">ETHNICITY</span> &#09;&#09;
   American<br>
-<span class="text-uppercase pr-3 font-weight-bold" style="color:#008080;letter-spacing:1px;">OCCUPATION</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">OCCUPATION</span> &#09;&#09;
   Bioengineer<br>
 </small>
 
@@ -69,9 +69,18 @@ backstory
 </h3>
 
 <small>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat vestibulum fermentum. Nullam aliquet ipsum mauris, quis tincidunt neque porttitor vitae. Nam condimentum faucibus ornare. Nunc euismod vitae erat id iaculis. Fusce ac fringilla velit, at eleifend augue. Quisque pellentesque tempor tellus. Aliquam id pulvinar risus. Nunc varius ante ac nisl lacinia suscipit. In quis risus quis sapien sagittis pulvinar. Donec at viverra sapien. Nam consectetur quis augue eu tincidunt.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat vestibulum fermentum. Nullam aliquet ipsum mauris, quis tincidunt neque porttitor vitae. Nam condimentum faucibus ornare. Nunc euismod vitae erat id iaculis. Fusce ac fringilla velit, at eleifend augue. Quisque pellentesque tempor tellus. Aliquam id pulvinar risus. Nunc varius ante ac nisl lacinia suscipit. In quis risus quis sapien sagittis pulvinar. Donec at viverra sapien. Nam consectetur quis augue eu tincidunt.</p>
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">RELATIONS</span> &#09;&#09;
+    <ul><li>TBA</li>
+    </ul>
+
+<p><span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">CONTENT WARNING </span>TBA</p>
+
+<ul>
+    <li>TO BE ADDED</li>
+    <li>TO BE ADDED</li>
+    <li>TO BE ADDED</li>
+</ul>
 </small>
 
 <hr class="w-100 my-5" style="border-color:#e6d7c5;opacity:.2;">
@@ -86,6 +95,20 @@ trivia
 </h3>
 
 <small>
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">INSPIRATION</span> &#09;&#09;
+    <ul>
+        <li>Harrowhark Nonagesimus (The Locked Tomb)</li>
+        <li>The Breeder (Jungle Juice)</li>
+        <li>Dr. Henry Wu (Jurassic World)</li>
+        <li>Pale King (Hollow Knight)</li>
+    </ul>
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">VOICE CLAIM</span> &#09;&#09;
+    <a href="https://www.youtube.com/watch?v=hXnKhn7ERJ0">AJ Michalka</a><br>
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">THEME SONG</span> &#09;&#09;
+    TBA<br>
+<span class="font-weight-bold" style="color:#008080;letter-spacing:1px;">MBTI TYPE</span> &#09;&#09;
+    INTP (The Logician)<br>
+
 <ul>
 <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
 <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
