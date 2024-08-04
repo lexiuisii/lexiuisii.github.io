@@ -115,10 +115,6 @@ trivia
     TBA<br>
 <span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">MBTI TYPE</span> &#09;&#09;
     ESFP (The Entertainer)<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">LIKES</span> &#09;&#09;
-    Pastries, Winning at Competitions, Cooking, Showing Affection, Music<br>
-<span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px;">DISLIKES</span> &#09;&#09;
-    The Cold, Being Restricted, Strict Rules, Silence, Loneliness<br>
 <ul>
 <li>Loves sweets, he enjoys any sweet treat and his form of love language is sharing or buying treats for others.</li>
 <li>Also a big fan of cooking, London's food sucks and he practiced cooking curries and cuisines to survive.</li>
