@@ -2,7 +2,7 @@
 title: Elijah Lombardi
 ---
 
->  "*Mage* are Awakened humans with the power to manipulate the forces of the world through belief. They are guided by each sphere of magic and can create wondrous miracles. However, too much change to the world could cause it to lash back."
+>  "*Mages* are those have Awakened to their Avatar and can perform a myriad of wonders beyond Sleeper understanding, with magic categoriezed into nine different Spheres of study. The Council of Nine Mystic Traditions governs most mages, but many factions and orphan craft mages exist too.”
 {: .notice--info}
 
 <!---------
