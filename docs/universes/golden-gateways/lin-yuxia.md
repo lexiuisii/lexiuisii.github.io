@@ -2,7 +2,8 @@
 title: Lín Yǔxiá
 ---
 
->  “Tian Gou, 天狗 are black hounds sometimes mistaken as a comet, the Tian Gou, or Celestial Dog is the loyal gatekeeper of heaven. Known from the myth of them eating the sun and moon which causes the solar or lunar eclipse. Many perceive them as an evil spirit and would use firecrackers and loud drums to scare the Tian Gou away.” {: .notice--info}
+>  “Tian Gou, 天狗 are black hounds sometimes mistaken as a comet, the Tian Gou, or Celestial Dog is the loyal gatekeeper of heaven. Known from the myth of them eating the sun and moon which causes the solar or lunar eclipse. Many perceive them as an evil spirit and would use firecrackers and loud drums to scare the Tian Gou away.”
+{: .notice--info}
 
 <!---------
 header names
