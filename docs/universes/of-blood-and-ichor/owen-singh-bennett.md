@@ -13,6 +13,7 @@ title: Owen Singh Bennett
 .column {
   float: left;
   width: 33.33%;
+  height: 50%;
   padding: 5px;
 }
 
@@ -156,16 +157,6 @@ trivia
 moodboards
 ----------->
 <br>
-
-<div cols="50">
-        <div style="padding:10px; height:200px; background-position:center; background-image:url('https://images.unsplash.com/photo-1655955236657-8439f04648b7?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif');"></div>
-      </div>
-<div cols="50">
-        <div style="padding:10px; height:200px; background-position:center; background-image:url('https://images.unsplash.com/photo-1599389931990-ffb2373161b5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif');"></div>
-      </div>
-<div cols="50">
-        <div style="padding:10px; height:200px; background-position:center; background-image:url('https://images.unsplash.com/photo-1649375640804-058ae9ae8f5e?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif');"></div>
-      </div>
 
  <div class="row">
   <div class="column">
