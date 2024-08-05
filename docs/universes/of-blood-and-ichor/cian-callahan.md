@@ -13,7 +13,7 @@ header names
 ----------->
 
 <div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 25px">
-    <h1 style="color:#708090">Cian Callahan/h1>
+    <h1 style="color:#708090">Cian Callahan</h1>
     <small>"The Vengeful Hunter"</small>
 </div>
 <div style="background-color:#708090;padding:3px;"></div>
