@@ -39,9 +39,9 @@ profile
 <span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">BIRTHDAY</span> &#09;&#09;
     July 16th<br>
 <span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">HEIGHT</span> &#09;&#09;
-    6'2" ft (188 cm)<br>
+    6'4" ft (195 cm)<br>
 <span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">WEIGHT</span> &#09;&#09;
-    198 lbs (90 kg)<br>
+    230 lbs (104 kg)<br>
 <span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">ETHNICITY</span> &#09;&#09;
     British/Sikh<br>
 <span class="font-weight-bold" style="color:#DC143C;letter-spacing:1px; text-transform:uppercase">OCCUPATION</span> &#09;&#09;
