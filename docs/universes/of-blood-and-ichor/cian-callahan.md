@@ -6,7 +6,7 @@ title: Cian Callahan
 >- Threat Level: `High` (Active Hunter)
 >- Affiliation: `The Gilded Blade`
 >- Status: `Confirmed Amalgam`
-{: .notice--info}
+{: .notice--danger}
 
 <!---------
 header names
