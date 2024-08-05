@@ -15,6 +15,8 @@ toc: true
 - **Aether Capabilities (AC)** vary from each individual and equipment, but allows the users to `manipulate the fabric of reality` within their own `constraints`. Some can manipulate the elements around them, others can stimulate an Entity's space bending abilities and regenerative powers. Equipments are often `limited to a single-type AC` in order to avoid overloading the components. 
 - **EsoTech** are technological equipment that have been `infused with Aether`, allowing its users to `utilize Aether Capabilities` without being an Amalgam but risk Aether Corruption should it malfunction. Many have safety features in place, but `improper disposal` or `destruction` of the equipment can cause Corruption.
 
+***
+
 # Factions
 - **Synthesium Technology Corporation (STC)** hides the existence of the Entities from the masses and `capitalize on the usage of Aether` to create advance technological weaponry and equipment to use against the Entities. They have connections to `governing bodies`, `law enforcement` and the `military`, and monopolize over the pharmaceutical, medical and military engineering industry. 
 - **The Gilded Blade** consists of loosely organized `mercenaries and criminals` that specialize in hunting down Entities for the sake of `smuggling and selling Aether` on the black market. Many engineers in this connected to them `illegally make EsoTech` and possess highly flawed safety features, making them more `prone to malfunction`. Often directly at odds with STC as they also `steal EsoTech` from the corporation to be resold. 
