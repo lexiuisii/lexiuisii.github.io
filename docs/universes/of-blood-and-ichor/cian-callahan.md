@@ -123,6 +123,8 @@ trivia
 
 </div>
 <div class="row" style="background-color:#141414; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;">
+    <span><iframe class="flex-fill" style="height:1em; width:1em; opacity:0; position:absolute; margin-top:5.5px; z-index:1;" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/watch?v=8RcYIyEgvvY></iframe><i class="fas fa-play"></i></a> <a href="#playlist" role="button" data-slide="next"><i class="fas fa-step-forward"></i></span><span style="font-size: 100%">The Survivor, The Winner <span class="text-muted">- ARTIST</span></span>
+    
     <div style="text-align: right; font-size: 16px"><a href="https://toyhou.se/11320894.-f2u-unity-v2"><i class="fa-solid fa-barcode"></i
   ></a></div>
 </div>
