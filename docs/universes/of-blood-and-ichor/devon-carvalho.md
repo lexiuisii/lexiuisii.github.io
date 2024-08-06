@@ -6,7 +6,7 @@ title: Devon Carvalho
 >- Threat Level: `Medium` (Security Threat)
 >- Affiliation: `Unconfirmed`
 >- Status: `Unconfirmed`
-{: .notice--info}
+{: .notice--warning}
 
 <!---------
 header names
