@@ -104,7 +104,7 @@ trivia
         <li>Kara Danvers (Supergirl)</li>
         <li>Luz Noceda (The Owl House)</li>
         <li>Marcy Wu (Amphibia)</li>
-        <li>Suletta Mercury (Gundam: THe Witch of Mercury)</li>
+        <li>Suletta Mercury (Gundam: The Witch of Mercury)</li>
     </ul>
 <span class="font-weight-bold" style="color:#FBEC5D;letter-spacing:1px; text-transform:uppercase">VOICE CLAIM</span> &#09;&#09;
     <a href="https://m.youtube.com/watch?v=h9EGpIN-jRo&t=12s&pp=ygUPYXZhIHNpbHZhIHNpbGx5">Alba Baptista</a><br>
