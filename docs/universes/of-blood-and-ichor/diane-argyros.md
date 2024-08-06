@@ -13,7 +13,7 @@ header names
 ----------->
 
 <div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 25px">
-    <h1 style="color:#008080; text-transform:uppercase; font-family:'Courier New'">Diane Argyros</h1>
+    <h1 style="color:#008080; text-transform:uppercase;">Diane Argyros</h1>
     <small>"The Merciless Bioengineer"</small>
 </div>
 <div style="background-color:#008080;padding:3px;"></div>
