@@ -20,5 +20,7 @@ defaults:
       author_profile: false
       share: false
 
-
+head_scripts:
+   - https://unpkg.com/lucide@latest/dist/umd/lucide.js
+   - https://unpkg.com/lucide@latest
 
