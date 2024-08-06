@@ -1,8 +1,8 @@
 ---
 title: Portfolio
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /docs/personal
+collection: personal
 entries_layout: grid
 classes: wide
 ---
