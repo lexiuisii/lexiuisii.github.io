@@ -4,6 +4,11 @@ sidebar:
     nav: sidebar-archived
 ---
 
+<div class="notice--info">
+<h4 class="no_toc" style="text-transform: uppercase;">Archived Roleplays</h4>
+Roleplay groups that have been archived due to the stories ending or no longer actively in use by me!
+</div>
+
 ### GOLDEN GATEWAYS
 
 Sequel to Crescent City. Roleplay group based on the World of Darkness set in San Francisco, California during 1945. A barrier protecting the city from True Fae has been waning in revent times, allowing monsters to invade the city. Characters have to deal with adhering to the Masquerade while solving the mysteries of the fae beasts before everything is ruined.
