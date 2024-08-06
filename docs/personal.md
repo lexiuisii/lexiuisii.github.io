@@ -16,7 +16,7 @@ header names
 ----------->
 
 <div class="row" style="background-color:#0F0C11; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 15px">
-    <h1 style="color:#AE1F4D; font-family:'Courier New'">✦ Glossary >></h1>
+    <h1 style="color:#AE1F4D; font-family:'Georgia'">✦ Glossary >></h1>
 </div>
 <div style="background-color:#AE1F4D;padding:3px;"></div>
 <div class="row" style="background-color:#20101F; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
