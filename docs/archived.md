@@ -4,7 +4,7 @@ sidebar:
     nav: sidebar-archived
 ---
 
-<div class="notice--info">
+<div class="notice">
 <h4 class="no_toc" style="text-transform: uppercase;">Archived Roleplays</h4>
 Roleplay groups that have been archived due to the stories ending or no longer actively in use by me!
 </div>
