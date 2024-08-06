@@ -15,6 +15,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+
 defaults:
   # _posts
   - scope:
