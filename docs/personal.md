@@ -19,7 +19,7 @@ header names
     <h1 style="color:#AE1F4D; font-family:'Georgia'">✦ Glossary >></h1>
 </div>
 <div style="background-color:#AE1F4D;padding:3px;"></div>
-<div class="row" style="background-color:#20101F; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
+<div class="row" style="background-color:#211b25; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
   
 <!---------
 profile
