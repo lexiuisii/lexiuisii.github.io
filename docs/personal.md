@@ -5,6 +5,9 @@ sidebar:
   nav: sidebar-personal
 ---
 
+<head>
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script></head>
+
 <div class="notice--danger">
 <h4 class="no_toc" style="text-transform: uppercase;">Of Blood, and Ichor</h4>
 Personal universe of mine with themes of eldritch monsters, magitech, and government conspiracies.
