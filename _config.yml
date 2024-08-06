@@ -11,9 +11,9 @@ atom_feed:
   hide: true
 
 collections:
-  personal:
+  dossier:
     output: true
-    permalink: /docs/personal
+    permalink: /docs/dossier
 
 defaults:
   # _posts
