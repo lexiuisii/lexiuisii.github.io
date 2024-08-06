@@ -15,11 +15,11 @@ Inspired by Control, CHAMBER, SCP Foundation, Bloodborne, World of Darkness, Ark
 header names
 ----------->
 
-<div class="row" style="background-color:#162649; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 15px">
+<div class="row" style="background-color:#012E49; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 15px">
     <h1 style="color:#FFDF00">✦ GLOSSARY >></h1>
 </div>
 <div style="background-color:#FFDF00;padding:3px;"></div>
-<div class="row" style="background-color:#EEEEEE; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
+<div class="row" style="background-color:#071823; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
   
 <!---------
 profile
