@@ -3,7 +3,6 @@ layout: single
 sidebar:
   nav: sidebar-personal
 ---
-<br>
 
 ## Glossary
 
