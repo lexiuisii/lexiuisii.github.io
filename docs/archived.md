@@ -4,9 +4,6 @@ sidebar:
     nav: sidebar-archived
 ---
 
-Archived universes from roleplay groups that have ended or are no longer actively in use!
-{: .notice--primary}
-
 <div class="notice--warning">
 <h4 class="no_toc" style="text-transform: uppercase;">Golden Gateways</h4>
 Roleplay group ran by SUPERKITSCH on Deviantart!
