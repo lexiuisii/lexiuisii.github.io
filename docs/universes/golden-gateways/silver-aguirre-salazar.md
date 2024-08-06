@@ -10,7 +10,7 @@ header names
 ----------->
 
 <div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 25px">
-    <h1 style="color:#D0FF14; text-transform:uppercase; font-family:'Courier New'">Silver Aguirre Salazar</h1>
+    <h1 style="color:#D0FF14; text-transform:uppercase;">Silver Aguirre Salazar</h1>
     <small>"Far Into Unknown"</small>
 </div>
 <div style="background-color:#D0FF14;padding:3px;"></div>
