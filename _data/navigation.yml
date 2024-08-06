@@ -5,7 +5,7 @@ main:
     url: https://lexiuisii.github.io/docs/lore
 
 sidebar-main:
-- title: "Of Blood and Ichor"
+  - title: "Of Blood and Ichor"
     children:
       - title: "Abigail Kjeldgaard"
         url: /docs/universes/of-blood-and-ichor/abigail-kjeldgaard
