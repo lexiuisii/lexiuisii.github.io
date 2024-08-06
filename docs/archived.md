@@ -16,8 +16,8 @@ header names
 <div class="row" style="background-color:#1D1216; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 15px">
     <h1 style="color:#EB7510; text-transform: uppercase; font-family:'Georgia'">✦ Summary >></h1>
 </div>
-<div style="background-color:#291b20;padding:3px;"></div>
-<div class="row" style="background-color:#15123E; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
+<div style="background-color:#EB7510;padding:3px;"></div>
+<div class="row" style="background-color:#291b20; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
   
 <!---------
 profile
