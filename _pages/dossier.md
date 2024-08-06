@@ -1,10 +1,10 @@
 ---
-title: Portfolio
+title: Dossier
 layout: collection
-permalink: /docs/dossier
+permalink: /dossier/
 collection: dossier
 entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_portfolio`.
+TEST TEST TEST
