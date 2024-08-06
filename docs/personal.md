@@ -40,6 +40,7 @@ profile
 </ul>
 </small>
 </div>
+<div class="row" style="background-color:#0F0C11; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;"></div>
 
 <br>
 <!---------
@@ -67,3 +68,4 @@ profile
 </ul>
 </small>
 </div>
+<div class="row" style="background-color:#0F0C11; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;"></div>
