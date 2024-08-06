@@ -13,10 +13,10 @@ header names
 ----------->
 
 <div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 25px">
-    <h1 style="color:#00CCCC">DEVON CARVALHO</h1>
+    <h1 style="color:#FFC000">DEVON CARVALHO</h1>
     <small>"The Mischievous Hacker"</small>
 </div>
-<div style="background-color:#00CCCC;padding:3px;"></div>
+<div style="background-color:#FFC000;padding:3px;"></div>
 <div class="row" style="background-color:#232121; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
 
 <!---------
@@ -24,27 +24,27 @@ profile
 ----------->
 
 <h3 class="font-weight-bold" style="letter-spacing:3px; text-transform:uppercase">
-    <span style="color:#00CCCC;">P</span>rofile
+    <span style="color:#FFC000;">P</span>rofile
 </h3>
 
 <small>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">NAME</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">NAME</span> &#09;&#09;
   Devon Carvalho<br>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">ALIASES</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">ALIASES</span> &#09;&#09;
   Quinn Smith, R.A.T.<br>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">GENDER</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">GENDER</span> &#09;&#09;
   Genderqueer (He/They/She)<br>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">AGE</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">AGE</span> &#09;&#09;
   25 Years<br>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">BIRTHDAY</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">BIRTHDAY</span> &#09;&#09;
   April 4th<br>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">HEIGHT</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">HEIGHT</span> &#09;&#09;
   5'2" ft (160 cm)<br>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">WEIGHT</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">WEIGHT</span> &#09;&#09;
   94 lbs (43 kg)<br>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">ETHNICITY</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">ETHNICITY</span> &#09;&#09;
   Mixed<br>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">OCCUPATION</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">OCCUPATION</span> &#09;&#09;
   Hacker<br>
 </small>
 
@@ -54,7 +54,7 @@ profile
 personality
 ----------->
 <h3 class="font-weight-bold" style="letter-spacing:3px; text-transform:uppercase">
-    <span style="color:#00CCCC;">P</span>ersonality
+    <span style="color:#FFC000;">P</span>ersonality
 </h3>
 
 <small>
@@ -69,16 +69,16 @@ personality
 backstory
 ----------->
 <h3 class="font-weight-bold" style="letter-spacing:3px; text-transform:uppercase">
-    <span style="color:#00CCCC;">B</span>ackstory
+    <span style="color:#FFC000;">B</span>ackstory
 </h3>
 
 <small>
 
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">RELATIONS</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">RELATIONS</span> &#09;&#09;
     <ul><li>content</li>
     </ul>
 
-<p><span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">CONTENT WARNING </span>TBA</p>
+<p><span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">CONTENT WARNING </span>TBA</p>
 
 <ul>
     <li>content</li>
@@ -95,22 +95,22 @@ trivia
 ----------->
 
 <h3 class="font-weight-bold" style="letter-spacing:3px; text-transform:uppercase">
-    <span style="color:#00CCCC;">T</span>rivia
+    <span style="color:#FFC000;">T</span>rivia
 </h3>
 
 <small>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">INSPIRATION</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">INSPIRATION</span> &#09;&#09;
     <ul>
         <li>Reginald "Wrench" Blechman (Watchdogs)</li>
         <li>White Wolf (Honkai: Star Rail)</li>
         <li>Peridot (Steven Universe)</li>
         <li>Sun Wukong (Lego Monkie Kid)</li>
     </ul>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">VOICE CLAIM</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">VOICE CLAIM</span> &#09;&#09;
     <a href="https://youtu.be/JF6tLqe_FSA?si=ouchX0Dw_JJGLJ40">Valeria Rodriguez</a><br>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">THEME SONG</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">THEME SONG</span> &#09;&#09;
     <a href="https://www.youtube.com/watch?v=vV9GhSgUymw&pp=ygUXc3F1YWQgdW5rbm93biBhcmtuaWdodHM%3D">Squad Unknown</a><br>
-<span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">MBTI TYPE</span> &#09;&#09;
+<span class="font-weight-bold" style="color:#FFC000;letter-spacing:1px; text-transform:uppercase">MBTI TYPE</span> &#09;&#09;
     ESTP (The Entrepreneur)<br>
 
 <ul>
