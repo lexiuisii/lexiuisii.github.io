@@ -10,11 +10,6 @@ plugins:
 atom_feed:
   hide: true
 
-collections:
-  dossier:
-    output: true
-    permalink: /:collection/:path/
-
 defaults:
   # _posts
   - scope:
