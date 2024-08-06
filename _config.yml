@@ -11,7 +11,7 @@ atom_feed:
   hide: true
 
 collections:
-  portfolio:
+  archived:
     output: true
     permalink: /docs/archived
 
