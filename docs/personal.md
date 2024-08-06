@@ -4,6 +4,10 @@ sidebar:
   nav: sidebar-personal
 ---
 
+Of Blood and Ichor, inspired by many of my favorite media. Has themes of eldritch monsters, magitech, and government conspiracies.
+- Inspirations: Control, CHAMBER, SCP Foundation, Bloodborne, World of Darkness, Arknights, Cyberpunk and Candela Obscura!
+{: .notice--primary}
+
 ## Glossary
 
 - **Entities** are `extradimensional beings` that invade our realm, disrupting the very fabric of reality and causing `Corruption` in everything around them. Turning the environment and its inhabitants into a danger as new vectors of the Corruption. They have been the `origin of many myths` of monsters and demons in history. Mundane `electronic devices are disabled` due to the presence of Corruption, only `equipment infused with Aether` are capable of functioning.
@@ -12,8 +16,6 @@ sidebar:
 - **Amalgams** are those who become `infused with dangerous levels of Aether`, causing the transformation into a pseudo Entity-like being with `Aether Capabilities`. This can be due to `accidental exposure` to Aether Corruption, `Entity attacks` or `willing infusion` of Aether. They are at risk of losing their sanity and mind, becoming mindless beasts should they lose control. 
 - **Aether Capabilities (AC)** vary from each individual and equipment, but allows the users to `manipulate the fabric of reality` within their own `constraints`. Some can manipulate the elements around them, others can stimulate an Entity's space bending abilities and regenerative powers. Equipments are often `limited to a single-type AC` in order to avoid overloading the components. 
 - **EsoTech** are technological equipment that have been `infused with Aether`, allowing its users to `utilize Aether Capabilities` without being an Amalgam but risk Aether Corruption should it malfunction. Many have safety features in place, but `improper disposal` or `destruction` of the equipment can cause Corruption.
-
-***
 
 ## Factions
 
