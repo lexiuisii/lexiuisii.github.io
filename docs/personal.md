@@ -26,17 +26,17 @@ profile
 ----------->
 <br>
 <small>
-<p><strong style="color:#AE1F4D">Entities</strong> are extradimensional beings that invade our realm, disrupting the very fabric of reality and causing Corruption in everything around them. Turning the environment and its inhabitants into a danger as new vectors of the Corruption. They have been the origin of many myths of monsters and demons in history. Mundane electronic devices are disabled due to the presence of Corruption, only equipment infused with Aether are capable of functioning.</p>
+<p><strong style="color:#AE1F4D">Entities</strong> are extradimensional beings that invade our realm, disrupting the very fabric of reality and causing Corruption in everything around them. Turning the environment and its inhabitants into a danger as new vectors of the Corruption. Mundane electronic devices are disabled due to their unstable nature, only equipment infused with Aether are capable of functioning within their vicinity.</p>
   
   <p><strong style="color:#AE1F4D">Aether</strong> is the bodily equivalent of blood harvested from deceased Entities that possess incredible paranatural properties. After processing Aether, it is capable of  stimulating regenerative properties in refined liquid form, exude high energy in crystalized form and more. Raw Aether is extremely volatile and can spread Corruption.</p>
   
-  <p><strong style="color:#AE1F4D">Corruption</strong> is the name of the disruptive paranatural energy that Entities emit, it breaks down the laws of reality, creates dimensional cracks and infects those who come into high concentration of it. Considered a severe reality hazard that must be contained, usually through elimination of the main vector of Corruption.</p>
+  <p><strong style="color:#AE1F4D">Corruption</strong> is the disruptive paranatural energy that Entities emit, it breaks down the laws of reality, creates dimensional cracks and infects those who come into high concentration of it. Considered a severe reality hazard that must be contained, usually through elimination of the main vector of Corruption. Often times, there are obvious signs of changes in reality that one must look out for to not fall into the Corruption. </p>
   
   <p><strong style="color:#AE1F4D">Amalgams</strong> are those who become infused with dangerous levels of Aether, causing the transformation into a pseudo Entity-like being with Aether Capabilities. This can be due to accidental exposure to Aether Corruption, Entity attacks or willing infusion of Aether. They are at risk of losing their sanity and mind, becoming mindless beasts should they lose control. </p>
   
   <p><strong style="color:#AE1F4D">Aether Capabilities (AC)</strong> vary from each individual and equipment, but allows the users to manipulate the fabric of reality within their own constraints. Some can manipulate the elements around them, others can stimulate an Entity's space bending abilities and regenerative powers. Equipments are often limited to a single-type AC in order to avoid overloading the components. </p>
   
-  <p><strong style="color:#AE1F4D">Esoteric Technology (EsoTech)</strong> are technological equipment that have been infused with Aether, allowing its users to utilize Aether Capabilities without being an Amalgam but risk Aether Corruption should it malfunction. Many have safety features in place, but improper disposal or destruction of the equipment can cause Corruption.</p>
+  <p><strong style="color:#AE1F4D">Esoteric Technology (EsoTech)</strong> are technological equipment that have been infused with Aether, allowing its users to utilize Aether Capabilities without being an Amalgam but risk Aether Corruption should it malfunction. Many have safety features in place, but improper disposal or destruction of the equipment can cause Corruption. As such, EsoTech with proper STC quality control and certificationare labelled with [§] as a warning.</p>
 
 </small>
 </div>
