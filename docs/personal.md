@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 sidebar:
   nav: sidebar-personal
 ---
@@ -14,17 +15,16 @@ Inspired by Control, CHAMBER, SCP Foundation, Bloodborne, World of Darkness, Ark
 header names
 ----------->
 
-<div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 25px">
-    <h1 style="color:#008080">GLOSSARY</h1>
-    <small>"content"</small>
+<div class="row" style="background-color:#162649; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 15px">
+    <h1 style="color:#FFDF00">GLOSSARY</h1>
 </div>
-<div style="background-color:#008080;padding:3px;"></div>
-<div class="row" style="background-color:#232121; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
+<div style="background-color:#FFDF00;padding:3px;"></div>
+<div class="row" style="background-color:#EEEEEE; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
   
 <!---------
 profile
 ----------->
-
+<small>
 <ul>
   <li><strong>Entities</strong> are extradimensional beings that invade our realm, disrupting the very fabric of reality and causing Corruption in everything around them. Turning the environment and its inhabitants into a danger as new vectors of the Corruption. They have been the origin of many myths of monsters and demons in history. Mundane electronic devices are disabled due to the presence of Corruption, only equipment infused with Aether are capable of functioning.</li>
   
@@ -38,6 +38,7 @@ profile
   
   <li><strong>Esoteric Technology (EsoTech)</strong> are technological equipment that have been infused with Aether, allowing its users to utilize Aether Capabilities without being an Amalgam but risk Aether Corruption should it malfunction. Many have safety features in place, but improper disposal or destruction of the equipment can cause Corruption.</li>
 </ul>
+</small>
 </div>
 
 
