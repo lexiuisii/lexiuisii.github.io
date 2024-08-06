@@ -1,5 +1,5 @@
 ---
-title: Of Blood and Ichor
+title: Personal
 layout: single
 sidebar:
   nav: sidebar-main
