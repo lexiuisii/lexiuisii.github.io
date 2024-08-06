@@ -1,10 +1,10 @@
 main:
   - title: "Personal"
-    url: https://lexiuisii.github.io/docs/lore
+    url: https://lexiuisii.github.io/docs/personal
   - title: "Active"
     url: https://lexiuisii.github.io
   - title: "Archived"
-    url: https://lexiuisii.github.io/docs/directory
+    url: https://lexiuisii.github.io/docs/archived
 
 sidebar-main:
   - title: "Of Blood and Ichor"
