@@ -6,7 +6,7 @@ sidebar:
 ---
 
 <div class="notice--danger">
-<h4 class="no_toc">Of Blood, and Ichor</h4>
+<h4 class="no_toc" style="text-transform: uppercase;">Of Blood, and Ichor</h4>
 Personal universe of mine with themes of eldritch monsters, magitech, and government conspiracies.
 Inspired by Control, CHAMBER, SCP Foundation, Bloodborne, World of Darkness, Arknights, Cyberpunk and Candela Obscura!
 </div>
