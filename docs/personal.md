@@ -36,7 +36,7 @@ profile
   
   <p><strong style="color:#AE1F4D">Aether Capabilities (AC)</strong> vary from each individual and equipment, but allows the users to manipulate the fabric of reality within their own constraints. Some can manipulate the elements around them, others can stimulate an Entity's space bending abilities and regenerative powers. Equipments are often limited to a single-type AC in order to avoid overloading the components. </p>
   
-  <p><strong style="color:#AE1F4D">Esoteric Technology (EsoTech)</strong> are technological equipment that have been infused with Aether, allowing its users to utilize Aether Capabilities without being an Amalgam but risk Aether Corruption should it malfunction. Many have safety features in place, but improper disposal or destruction of the equipment can cause Corruption. As such, EsoTech with proper STC quality control and certificationare labelled with [§] as a warning.</p>
+  <p><strong style="color:#AE1F4D">Esoteric Technology (EsoTech)</strong> are technological equipment that have been infused with Aether, allowing its users to utilize Aether Capabilities without being an Amalgam but risk Aether Corruption should it malfunction. Many have safety features in place, but improper disposal or destruction of the equipment can cause Corruption. As such, EsoTech with proper STC quality control and certificationare labelled with [ § ] as a warning.</p>
 
 </small>
 </div>
