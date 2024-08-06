@@ -107,7 +107,7 @@ trivia
         <li>Sun Wukong (Lego Monkie Kid)</li>
     </ul>
 <span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">VOICE CLAIM</span> &#09;&#09;
-    <a href="https://m.youtube.com/watch?v=JF6tLqe_FSA&t=24s&pp=ygURdmVudHVyZSBvdmVyd2F0Y2g%3D">Valeria Rodriguez</a><br>
+    <a href="https://youtu.be/JF6tLqe_FSA?si=ouchX0Dw_JJGLJ40">Valeria Rodriguez</a><br>
 <span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">THEME SONG</span> &#09;&#09;
     <a href="https://www.youtube.com/watch?v=vV9GhSgUymw&pp=ygUXc3F1YWQgdW5rbm93biBhcmtuaWdodHM%3D">Squad Unknown</a><br>
 <span class="font-weight-bold" style="color:#00CCCC;letter-spacing:1px; text-transform:uppercase">MBTI TYPE</span> &#09;&#09;
