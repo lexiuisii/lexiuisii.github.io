@@ -13,7 +13,7 @@ atom_feed:
 collections:
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: ""
 
 defaults:
   # _posts
@@ -23,5 +23,17 @@ defaults:
     values:
       layout: splash
       author_profile: false
+      share: false
+
+defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 
 
