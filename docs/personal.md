@@ -5,9 +5,6 @@ sidebar:
   nav: sidebar-personal
 ---
 
-<head>
-<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script></head>
-
 <div class="notice--danger">
 <h4 class="no_toc" style="text-transform: uppercase;">Of Blood, and Ichor</h4>
 Personal universe of mine with themes of eldritch monsters, magitech, and government conspiracies.
@@ -29,7 +26,8 @@ profile
 ----------->
 <br>
 <small>
-<p><strong style="color:#AE1F4D"><i data-lucide="orbit"></i>  Entities</strong> are extradimensional beings that invade our realm, disrupting the very fabric of reality and causing Corruption in everything around them. Turning the environment and its inhabitants into a danger as new vectors of the Corruption. Mundane electronic devices are disabled due to their unstable nature, only equipment infused with Aether are capable of functioning within their vicinity.</p>
+<p><strong style="color:#AE1F4D"><svg class="lucide-icon"><use href="#orbit">
+</svg>  Entities</strong> are extradimensional beings that invade our realm, disrupting the very fabric of reality and causing Corruption in everything around them. Turning the environment and its inhabitants into a danger as new vectors of the Corruption. Mundane electronic devices are disabled due to their unstable nature, only equipment infused with Aether are capable of functioning within their vicinity.</p>
   
   <p><strong style="color:#AE1F4D">Aether  <i class="fa-solid fa-droplet"></i></strong> is the bodily equivalent of blood harvested from deceased Entities that possess incredible paranatural properties. After processing Aether, it is capable of  stimulating regenerative properties in refined liquid form, exude high energy in crystalized form and more. Raw Aether is extremely volatile and can spread Corruption.</p>
   
