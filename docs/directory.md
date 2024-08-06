@@ -1,18 +1,9 @@
 ---
-title: Directory
+title: Archive 
 layout: single
 sidebar:
-    nav: sidebar-universes
+    nav: sidebar-archive
 ---
-
-Utilize the sidebars to navigate OCs and their profiles!
-{: .notice--info}
-
-**Of Blood and Ichor**
-> My personal universe that's based on a lot of media I enjoy! Urban fantasy with themes of eldritch horror, magictech elements and the relationship of major factions dealing with them, still a work in progress so bare with me.
-
-Universes below have been archived due to the roleplay groups ending, or are no longer actively in use by me!
-{: .notice}
 
 **Golden Gateways**
 > Sequel to Crescent City. Roleplay group based on the World of Darkness set in San Francisco, California during 1945. A barrier protecting the city from True Fae has been waning in revent times, allowing monsters to invade the city. Characters have to deal with adhering to the Masquerade while solving the mysteries of the fae beasts before everything is ruined.
