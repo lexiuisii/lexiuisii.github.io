@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: collection
-permalink: /docs/achived/
+permalink: /archives/
 collection: portfolio
 entries_layout: grid
 classes: wide
