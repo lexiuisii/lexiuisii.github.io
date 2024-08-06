@@ -1,5 +1,5 @@
 ---
-title: Archive 
+title: Archived
 layout: single
 sidebar:
     nav: sidebar-archive
