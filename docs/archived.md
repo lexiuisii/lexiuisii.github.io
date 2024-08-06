@@ -7,10 +7,29 @@ sidebar:
 Archived universes from roleplay groups that have ended or are no longer actively in use!
 {: .notice--primary}
 
-## Golden Gateways
+<div class="notice--warning">
+<h4 class="no_toc" style="text-transform: uppercase;">Golden Gateways</h4>
+Roleplay group ran by SUPERKITSCH on Deviantart!
+</div>
 
-Sequel to Crescent City. Roleplay group based on the World of Darkness set in San Francisco, California during 1945. A barrier protecting the city from True Fae has been waning in revent times, allowing monsters to invade the city. Characters have to deal with adhering to the Masquerade while solving the mysteries of the fae beasts before everything is ruined.
-{: .notice--info}
+<!---------
+header names
+----------->
+
+<div class="row" style="background-color:#1D1216; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 15px">
+    <h1 style="color:#EB7510; text-transform: uppercase; font-family:'Georgia'">✦ Summary >></h1>
+</div>
+<div style="background-color:#AE1F4D;padding:3px;"></div>
+<div class="row" style="background-color:#15123E; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
+  
+<!---------
+profile
+----------->
+<small>
+<p>Sequel to Crescent City. Roleplay group based on the World of Darkness set in San Francisco, California during 1945. A barrier protecting the city from True Fae has been waning in revent times, allowing monsters to invade the city. Characters have to deal with adhering to the Masquerade while solving the mysteries of the fae beasts before everything is ruined.</p>
+</small>
+</div>
+
 
 ## Elysian Vision
 
