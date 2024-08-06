@@ -10,7 +10,7 @@ header names
 ----------->
 
 <div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 25px">
-    <h1 style="color:#6495ED; text-transform:uppercase; font-family:'Courier New'">Lín Yǔxiá</h1>
+    <h1 style="color:#6495ED; text-transform:uppercase;">Lín Yǔxiá</h1>
     <small>"Moonless Nights"</small>
 </div>
 <div style="background-color:#6495ED;padding:3px;"></div>
