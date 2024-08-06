@@ -1,8 +1,10 @@
 main:
-  - title: "Archive"
-    url: https://lexiuisii.github.io/docs/directory
-  - title: "Of Blood and Ichor"
+  - title: "Personal"
     url: https://lexiuisii.github.io/docs/lore
+  - title: "Active"
+    url: https://lexiuisii.github.io
+  - title: "Archived"
+    url: https://lexiuisii.github.io/docs/directory
 
 sidebar-main:
   - title: "Of Blood and Ichor"
