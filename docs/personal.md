@@ -24,6 +24,7 @@ header names
 <!---------
 profile
 ----------->
+<br>
 <small>
 <p><strong style="color:#AE1F4D">Entities</strong> are extradimensional beings that invade our realm, disrupting the very fabric of reality and causing Corruption in everything around them. Turning the environment and its inhabitants into a danger as new vectors of the Corruption. They have been the origin of many myths of monsters and demons in history. Mundane electronic devices are disabled due to the presence of Corruption, only equipment infused with Aether are capable of functioning.</p>
   
@@ -55,8 +56,8 @@ header names
 <!---------
 profile
 ----------->
+<br>
 <small>
-
   <p><strong style="color:#AE1F4D">Synthesium Technology Corporation (STC)</strong> hides the existence of the Entities from the masses and capitalize on the usage of Aether to create advance technological weaponry and equipment to use against the Entities. They have connections to governing bodies, law enforcement and the military, and monopolize over the pharmaceutical, medical and military engineering industry. </p>
     
   <p><strong style="color:#AE1F4D">The Gilded Blade</strong> consists of loosely organized mercenaries and criminals that specialize in hunting down Entities for the sake of smuggling and selling Aether on the black market. Many engineers in this connected to them illegally make EsoTech and possess highly flawed safety features, making them more prone to malfunction. Often directly at odds with STC as they also steal EsoTech from the corporation to be resold.</p>
