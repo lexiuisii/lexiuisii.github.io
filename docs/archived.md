@@ -17,11 +17,11 @@ Roleplay group ran by SUPERKITSCH on Deviantart!
 header names
 ----------->
 
-<div class="row" style="background-color:#110800; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 15px">
+<div class="row" style="background-color:#1d130a; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 15px">
     <h1 style="color:#EB7510; text-transform: uppercase; font-family:'Georgia'">✦ Summary >></h1>
 </div>
 <div style="background-color:#EB7510;padding:3px;"></div>
-<div class="row" style="background-color:#201100; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
+<div class="row" style="background-color:#2c1e13; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
   
 <!---------
 profile
@@ -31,7 +31,7 @@ profile
 <p>Sequel to Crescent City. Roleplay group based on the World of Darkness set in San Francisco, California during 1945. A barrier protecting the city from True Fae has been waning in revent times, allowing monsters to invade the city. Characters have to deal with adhering to the Masquerade while solving the mysteries of the fae beasts before everything is ruined.</p>
 </small>
 </div>
-<div class="row" style="background-color:#110800; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;"></div>
+<div class="row" style="background-color:#1d130a; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;"></div>
 
 <br>
 
@@ -48,11 +48,11 @@ Roleplay group ran by Tacticatty on Deviantart!
 header names
 ----------->
 
-<div class="row" style="background-color:#29171b; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 15px">
+<div class="row" style="background-color:#210e12; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 15px">
     <h1 style="color:#F4889E; text-transform: uppercase; font-family:'Georgia'">✦ Summary >></h1>
 </div>
 <div style="background-color:#F4889E;padding:3px;"></div>
-<div class="row" style="background-color:#371f24; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
+<div class="row" style="background-color:#371c21; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
   
 <!---------
 profile
@@ -62,7 +62,7 @@ profile
 <p>Roleplay group set in a scifi universe far in the future where many alien species exist alongside humans. However, invaders that destroy planets threaten the peace and the world has to band together in order to face the danger. Forming the Coalition for Cosmic Collectiveness in order to fight back against the mysterious Proxies that have already taken over countless planets.</p>
 </small>
 </div>
-<div class="row" style="background-color:#29171b; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;"></div>
+<div class="row" style="background-color:#210e12; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;"></div>
 
 <br>
 
