@@ -19,7 +19,7 @@ header names
     <h1 style="color:#AE1F4D; font-family:'Courier New'">✦ GLOSSARY >></h1>
 </div>
 <div style="background-color:#AE1F4D;padding:3px;"></div>
-<div class="row" style="background-color:#0D101B; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
+<div class="row" style="background-color:#0B080C; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
   
 <!---------
 profile
@@ -28,7 +28,7 @@ profile
 <ul>
   <li><strong>Entities</strong> are extradimensional beings that invade our realm, disrupting the very fabric of reality and causing Corruption in everything around them. Turning the environment and its inhabitants into a danger as new vectors of the Corruption. They have been the origin of many myths of monsters and demons in history. Mundane electronic devices are disabled due to the presence of Corruption, only equipment infused with Aether are capable of functioning.</li>
   
-  <li><strong>Aether</strong> is the bodily equivalent of *blood* harvested from deceased Entities that possess incredible paranatural properties. After processing Aether, it is capable of  stimulating regenerative properties in refined liquid form, exude high energy in crystalized form and more. Raw Aether is extremely volatile and can spread Corruption.</li>
+  <li><strong>Aether</strong> is the bodily equivalent of blood harvested from deceased Entities that possess incredible paranatural properties. After processing Aether, it is capable of  stimulating regenerative properties in refined liquid form, exude high energy in crystalized form and more. Raw Aether is extremely volatile and can spread Corruption.</li>
   
   <li><strong>Corruption</strong> is the name of the disruptive paranatural energy that Entities emit, it breaks down the laws of reality, creates dimensional cracks and infects those who come into high concentration of it. Considered a severe reality hazard that must be contained, usually through elimination of the main vector of Corruption.</li>
   
