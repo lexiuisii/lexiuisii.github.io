@@ -13,6 +13,7 @@ atom_feed:
 collections:
   dossier:
     output: true
+    permalink: /dossier/:path/
 
 defaults:
   # _posts
