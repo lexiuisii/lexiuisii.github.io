@@ -13,7 +13,7 @@ atom_feed:
 collections:
   personal:
     output: true
-    permalink: /personal
+    permalink: /docs/personal
 
 defaults:
   # _posts
