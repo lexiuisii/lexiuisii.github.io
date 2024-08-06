@@ -64,7 +64,7 @@ profile
     
   <p><strong style="color:#AE1F4D">Empyrean's Veil</strong> is a secret organization of the rich and wealthy with their identity hidden behind masks at events. Their main goal is to get their hands on any and all Aether or Entity related items, usually sold at auction events they hold. Only the most elite may join their ranks, Synthesium considers them a threat due to their knowledge of Entities and their arrogance.</p>
     
-  <p><strong style="color:#AE1F4D">Progenies of Ichor</strong> has followers that worship Entities as gods and deem Aether as gift of the gods. They considered Entities on Earth to be exiled gods, arranging hunts to harvest their blood as reparations for their sins. They intentionally infuse members of high ranks with Aether in order to become *Amalgams*, which are seen as a blessing and honor to become closer to Ascension. Many members have connections with other religious organizations.</p>
+  <p><strong style="color:#AE1F4D">Progenies of Ichor</strong> has followers that worship Entities as gods and deem Aether as gift of the gods. They considered Entities on Earth to be exiled gods, arranging hunts to harvest their blood as reparations for their sins. They intentionally infuse members of high ranks with Aether in order to become Amalgams, which are seen as a blessing and honor to become closer to Ascension. Many members have connections with other religious organizations.</p>
 </small>
 
 </div>
