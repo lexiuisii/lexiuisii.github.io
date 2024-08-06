@@ -13,7 +13,7 @@ header names
 ----------->
 
 <div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 25px">
-    <h1 style="color:#DC143C">OWEN SINGH BENNETT </h1>
+    <h1 style="color:#DC143C; text-transform:uppercase; font-family:'Courier New'">Owen Singh Bennett</h1>
         <small>"The Unyielding Soldier"</small>
 </div> 
 <div style="background-color:#DC143C;padding:3px;"></div>
