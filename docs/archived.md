@@ -1,9 +1,8 @@
 ---
 layout: single
 sidebar:
-    nav: sidebar-archive
+    nav: sidebar-archived
 ---
-<br>
 
 ## Golden Gateways
 
