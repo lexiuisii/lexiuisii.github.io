@@ -6,8 +6,8 @@ main:
   - title: "Archived"
     url: https://lexiuisii.github.io/docs/archived
 
-sidebar-main:
-  - title: "Of Blood and Ichor"
+sidebar-personal:
+  - title: "Persons of Interest"
     children:
       - title: "Abigail Kjeldgaard"
         url: /docs/universes/of-blood-and-ichor/abigail-kjeldgaard
@@ -24,7 +24,7 @@ sidebar-main:
       - title: "Owen Singh Bennett"
         url: /docs/universes/of-blood-and-ichor/owen-singh-bennett
 
-sidebar-archive:
+sidebar-archived:
   - title: "Golden Gateways"
     children:
       - title: "Lín Yǔxiá"
