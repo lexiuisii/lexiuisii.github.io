@@ -13,7 +13,7 @@ atom_feed:
 collections:
   portfolio:
     output: true
-    permalink: ""
+    permalink: /docs/archived
 
 defaults:
   # _posts
