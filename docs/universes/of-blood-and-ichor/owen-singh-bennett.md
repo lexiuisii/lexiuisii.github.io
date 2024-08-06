@@ -135,9 +135,3 @@ trivia
 <div class="row" style="background-color:#141414; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;">
     <div style="text-align: right; font-size: 16px"><a href="https://toyhou.se/11320894.-f2u-unity-v2"><i class="fa-solid fa-barcode"></i></a></div>
 </div>
-
-<figure class="third">
-	<div class="card" style="height:200px; background-position:center; background-image:url('https://images.unsplash.com/photo-1599389931990-ffb2373161b5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif');"></div>
-	<div class="card" style="height:200px; background-position:center; background-image:url('https://images.unsplash.com/photo-1599389931990-ffb2373161b5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif');"></div>
-    <div class="card" style="height:200px; background-position:center; background-image:url('https://images.unsplash.com/photo-1599389931990-ffb2373161b5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D.avif');"></div>
-</figure>
