@@ -7,6 +7,8 @@ main:
 sidebar-universes:
   - title: "Of Blood and Ichor"
     children:
+      - title: "Abigail Kjeldgaard"
+        url: /docs/universes/of-blood-and-ichor/abigail-kjeldgaard
       - title: "Chanon Ngamchaweng"
         url: /docs/universes/of-blood-and-ichor/chanon-ngamchaweng
       - title: "Cian Callahan"
