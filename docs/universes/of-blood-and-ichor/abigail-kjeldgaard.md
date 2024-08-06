@@ -13,7 +13,7 @@ header names
 ----------->
 
 <div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 25px">
-    <h1 style="color:#FBEC5D">ABIGAIL KJELDGAARD</h1>
+    <h1 style="color:#FBEC5D; text-transform:uppercase; font-family:'Courier New'">Abigail Kjeldgaard</h1>
     <small>"The Curious Photographer"</small>
 </div>
 <div style="background-color:#FBEC5D;padding:3px;"></div>
