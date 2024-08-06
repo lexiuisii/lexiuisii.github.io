@@ -34,6 +34,7 @@ profile
 <div class="row" style="background-color:#180c02; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;"></div>
 
 <br>
+***
 
 <!-----------------------------------------------------------------------------------------------------------
 ELYSIAN VISION
@@ -63,6 +64,9 @@ profile
 </small>
 </div>
 <div class="row" style="background-color:#170206; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;"></div>
+
+<br>
+***
 
 <!-----------------------------------------------------------------------------------------------------------
 CRESCENT CITY
