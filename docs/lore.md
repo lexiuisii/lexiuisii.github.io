@@ -1,7 +1,8 @@
 ---
 title: Of Blood and Ichor
 layout: single
-toc: true
+sidebar:
+  nav:sidebar-main
 ---
 
 *Inspired By:* Control, CHAMBER, Arknights, Bloodborne, Candela Obscura and World of Darkness
