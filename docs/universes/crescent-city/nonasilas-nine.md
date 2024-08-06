@@ -10,7 +10,7 @@ header names
 ----------->
 
 <div class="row" style="background-color:#141414; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 25px">
-    <h1 style="color:#5A4FCF; text-transform:uppercase; font-family:'Courier New'">Nonasilas Nine</h1>
+    <h1 style="color:#5A4FCF; text-transform:uppercase;">Nonasilas Nine</h1>
     <small>"A Classic Odyessy of Tragedy"</small>
 </div>
 <div style="background-color:#5A4FCF;padding:3px;"></div>
