@@ -26,6 +26,7 @@ profile
 <p>Sequel to Crescent City. Roleplay group based on the World of Darkness set in San Francisco, California during 1945. A barrier protecting the city from True Fae has been waning in revent times, allowing monsters to invade the city. Characters have to deal with adhering to the Masquerade while solving the mysteries of the fae beasts before everything is ruined.</p>
 </small>
 </div>
+<div class="row" style="background-color:#1D1216; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;"></div>
 
 
 ## Elysian Vision
