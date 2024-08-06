@@ -79,11 +79,11 @@ Roleplay group ran by SUPERKITSCH on Deviantart!
 header names
 ----------->
 
-<div class="row" style="background-color:#0B0608; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 15px">
+<div class="row" style="background-color: #170a0a; padding-top:30px; padding-left: 55px; padding-right: 55px; padding-bottom: 15px">
     <h1 style="color:#980100; text-transform: uppercase; font-family:'Georgia'">✦ Summary >></h1>
 </div>
-<div style="background-color:#EB7510;padding:3px;"></div>
-<div class="row" style="background-color:#361815; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
+<div style="background-color:#980100;padding:3px;"></div>
+<div class="row" style="background-color:#251313; padding-top:5px; padding-left: 60px; padding-right: 60px; padding-bottom: 20px; overflow:auto; max-height:500px">
   
 <!---------
 profile
@@ -93,4 +93,4 @@ profile
 <p>Prequel to Golden Gateways. Roleplay group based on the World of Darkness in New Orleans, Louisiana during 1920. Awakened city that comes with its own faction disputes with the mysteries of the Vox Phantasma and Vox Populi threatning the balance. Characters have to manage their own relation alongside finding themselves in the new power struggle.</p>
 </small>
 </div>
-<div class="row" style="background-color:#0B0608; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;"></div>
+<div class="row" style="background-color:#170a0a; padding-top:20px; padding-left: 30px; padding-right: 30px; padding-bottom: 25px;"></div>
