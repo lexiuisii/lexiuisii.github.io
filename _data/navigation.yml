@@ -14,6 +14,7 @@ sidebar-personal:
       - title: "Owen Singh Bennett"
         url: /docs/universes/of-blood-and-ichor/owen-singh-bennett
   - title: "Watchlist"
+    children:
       - title: "Chanon Ngamchaweng"
         url: /docs/universes/of-blood-and-ichor/chanon-ngamchaweng
       - title: "Cian Callahan"
