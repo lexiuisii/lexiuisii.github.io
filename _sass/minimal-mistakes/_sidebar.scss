@@ -342,7 +342,7 @@
     }
   }
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     width: initial;
     margin-inline-end: initial;
   }
